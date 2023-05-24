@@ -1,0 +1,453 @@
+[RRRRRR_to_LLLLLL_苦手になった質問(SP)]
+
+[1]
+
+
+context: 
+
+
+"Don't Stop the Music (Robyn album)"
+Don't Stop the Music is the third studio album by Swedish pop singer Robyn.
+It was released on 30 October 2002 in Sweden by BMG.
+The album peaked at #2 in her native Sweden, and the two singles "Keep This Fire Burning" and "Don't Stop the Music" were both top 10 hits.
+In 2003, "Don't Stop The Music" was certified platinum by IFPI, and has sold over 60,000 copies in Sweden.
+
+"You Keep Me Hangin' On"
+"You Keep Me Hangin' On" is a 1966 song written and composed by Holland–Dozier–Holland.
+It first became a popular "Billboard" Hot 100 number one hit for the American Motown group The Supremes in late 1966.
+The rock band Vanilla Fudge covered the song a year later and had a top ten hit with their version.
+British pop singer Kim Wilde covered "You Keep Me Hangin' On" in 1986, bumping it back to number one on the "Billboard" Hot 100 in June 1987.
+The single reached number one by two different musical acts in America.
+In the first 32 years of the "Billboard" Hot 100 rock era, “You Keep Me Hangin' On” became one of only six songs to achieve this feat.
+In 1996, country music singer Reba McEntire's version reached number 2 on the US "Billboard" Hot Dance Club Play chart.
+
+"Madonna videography"
+American entertainer Madonna has released 68 music videos, 11 concert tour videos, 2 documentary videos, 4 music video compilations, 2 music video box sets, 4 promotional videos, and 5 video singles.
+In 1982, Madonna signed a recording contract with Sire Records and released her first two singles before launching her eponymous debut album.
+Her first video to receive attention on MTV was "Borderline", followed by "Lucky Star" and "Like a Virgin", which popularized Madonna's image and fashion among younger generation.
+Her early videos were released commercially on "Madonna" (1984), which became the best-selling videocassette of 1985.
+With the title track from her third studio album "True Blue" (1986), Madonna's impact on MTV and popular music was established when a contest entitled "Making My Video", was held to create a music video for the song. "
+La Isla Bonita" and "Who's That Girl", both released in 1987, showed Madonna's fascination with Hispanic culture and religious symbolism.
+In 1989, the video of "Like a Prayer" portrayed her dancing in front of burning crosses, receiving stigmata, kissing a black saint and having sex with him in a church altar.
+It faced strong reaction from religious groups and media. "
+Express Yourself" released the same year was critically appreciated for its positive feminist themes.
+
+"Ghost (production team)"
+Ghost is a Swedish record producing and songwriting team, composed of Ulf Lindström and Johan Ekhé, based in New York City.
+They are perhaps best known for writing and producing Swedish singer Robyn's three first studio albums, "Robyn Is Here" (1996), "My Truth" (1999), and "Don't Stop the Music" (2002).
+Robyn's "Keep This Fire Burning" from 2003 was the fourth most played song by Swedish songwriters on Swedish radio from 2000–2009.
+It was later covered by British soul singer Beverley Knight.
+
+"Keep This Fire Burning"
+"Keep This Fire Burning" is a song by Swedish pop singer Robyn, released as the first single from her third album "Don't Stop the Music".
+It was released in Sweden on September 21, 2002, where it became her highest charting single since 1995's "Do You Really Want Me (Show Respect)".
+The song was also released as a single in Australia under the name "By Your Side", due to the Australian bush fires which were happening at the time.
+In 2008, a re-recorded version of the song appeared on the special edition of Robyn's eponymous album.
+
+"I'll Keep the Lovelight Burning"
+"I'll Keep the Lovelight Burning" is a popular song written in 1942 by Harry Tobias, Nick Kenny, and Harold Levey, popularized by Patti Page in 1949.
+Louis Armstrong also covered the song in 1949.
+
+"William Gibson"
+William Ford Gibson (born March 17, 1948) is an American-Canadian speculative fiction writer and essayist widely credited with pioneering the science fiction subgenre known as cyberpunk.
+Beginning his writing career in the late 1970s, his early works were noir, near-future stories that explored the effects of technology, cybernetics, and computer networks on humans—a "combination of lowlife and high tech"—and helped to create an iconography for the information age before the ubiquity of the Internet in the 1990s.
+Gibson notably coined the term "cyberspace" in his short story "Burning Chrome" (1982) and later popularized the concept in his acclaimed debut novel "Neuromancer" (1984).
+These early works have been credited with "renovating" science fiction literature after it had fallen largely into insignificance in the 1970s.
+
+"Phil Driscoll"
+Phil Driscoll (born November 9, 1947) is a trumpeter, singer, composer, and producer.
+He performs in varying music genres and styles which include rock and roll, rhythm and blues, and patriotic music, and is best known for his work in Christian music and his longterm Christian ministry.
+In 1985, Driscoll won the Grammy Award for Best Gospel Performance – Duo/Group for a duet with Debby Boone on "Keep the Flame Burning", and he has been nominated for three additional Grammys, two for Best Gospel Performance – Male and one for Best Gospel/Pop Album.
+He has also won three Dove Awards for his music, and the 1999 Christian Country Music Association Award for Best Musician.
+In 2006, Driscoll was found guilty on 2 counts of tax evasion and one count of conspiracy, and was sentenced to serve one year in Federal prison, beginning on March 14, 2007.
+
+"Patti Page"
+Clara Ann Fowler (November 8, 1927 – January 1, 2013), known by her professional name Patti Page, was an American singer of traditional pop music and country music.
+She was the top-charting female vocalist and best-selling female artist of the 1950s, selling over 100 million records during a six-decade long career.
+She was often introduced as "the Singin' Rage, Miss Patti Page".
+New York WNEW disc-jockey William B. Williams introduced her as "A Page in my life called Patti".
+
+"Burning of the Clavie"
+Burning the clavie is an ancient Scottish custom still observed at Burghead, a fishing village on the Moray Firth.
+The "clavie" is a collection of casks split in two, lit as a bonfire in the evening of 11 January, i.e. New Year's Eve (in Scotland, Hogmanay) by the Julian Calendar.
+One of these casks is joined together again by a huge nail (Latin "clavis"; hence the term, it may also be from Scottish Gaelic "cliabh", a basket used for holding combustibles).
+It is then filled with tar, lighted and carried flaming round the village and finally up to a headland upon which stands the ruins of an altar, locally called the "Doorie".
+It here forms the nucleus of the bonfire, which is built up of split casks.
+When the burning tar-barrel falls in pieces, the people scramble to get a lighted piece with which to kindle the New Year's fire on their cottage hearth.
+The charcoal of the "clavie" is collected and put in pieces up the cottage chimneys, to keep spirits and witches from coming down.
+
+question:
+In what year was the singer who popularized "I'll Keep the Lovelight Burning" born?
+
+
+answer(1):
+1927
+supporting facts:
+I'll Keep the Lovelight Burning 0
+Patti Page 0
+
+
+answer(2):
+1927
+supporting facts:
+I'll Keep the Lovelight Burning 0
+William Gibson 0
+Patti Page 0
+
+
+
+
+[2]
+
+
+context: 
+
+
+"General Campaign Star"
+The General Campaign Star (French: "Étoile de campagne générale" ) is a campaign medal created in 2004 by the Canadian monarch-in-Council to recognize members of the Canadian Armed Forces who had directly participated in any military campaign under Canadian or allied command.
+It is, within the Canadian system of honours, the sixth highest of the war and operational service medals.
+
+"The 'Burbs"
+The 'Burbs is a 1989 American comedy thriller film directed by Joe Dante starring Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal and Henry Gibson.
+The film was written by Dana Olsen, who also has a cameo in the movie.
+The film pokes fun at suburban environments and their eccentric dwellers.
+
+"Bambi Hall"
+Samantha Hall (born July 14, 1992) better known by her ring name Bambi Hall is a Canadian female professional wrestler who debuted on June 18, 2011, and for All Star Wrestling (ASW), in June 2012 currently working for All Star Wrestling, and is the current Women's Champion.
+Hall also works for other Canadian independent promotions including Canadian National Wrestling Alliance (CNWA), Big West Wrestling (BWW), Beauty Slammers Wrestling (BSW), Canadian Wrestling's Elite (CWE), Wise Pro Wrestling (WPW), Elite Canadian Championship Wrestling (ECCW), Real Canadian Wrestling (RCW), Vancouver Island Pro Wrestling (VIPW), Pure Wrestling Association (PWA), Monster Pro Wrestling (MPW), Trash Wrestling, Pure Power Wrestling (PPW), Tony Condello Promotions (TCP), Gold Dragon Wrestling (GDW), and Midget Wrestling Warrirors (MWW), as well Hall has also competed in the United States in SHIMMER Women Athletes, West Coast Wrestling Connection (WCWC), and Vendetta Pro Wrestling (VPW), in Las Vegas, Nevada.
+
+"Royal Canadian Artillery Museum"
+The Royal Canadian Artillery Museum, Canada’s National Artillery Museum, is a museum dedicated to telling the complete story of the more than 200,000 Canadian Gunners who have served Canada in war and peace since 1855.
+The museum is Canada’s National Artillery Museum, a Manitoba Star Attraction and one of the largest military museums in Canada.The Royal Regiment of Canadian Artillery (RCA) has been a part of the fabric of Canadian history since the earliest days of our nation.
+In 1962, the RCA Museum was established at Canadian Forces Base Shilo in order to preserve and interpret this proud heritage for future generations.
+
+"Rick Ducommun"
+Richard "Rick" Ducommun (July 3, 1952 – June 12, 2015) was a Canadian actor, comedian and writer who appeared in films and television.
+
+"When You Can Fly"
+When You Can Fly is the second studio album by Canadian country music artist Victoria Banks and her first album with record label distribution, which earned Banks a 2010 Canadian Indie Award nomination and six nominations at the 2009 Canadian Country Music Awards including Album of the Year, Single of the Year ("The Wheel"), Songwriter of the Year ("The Wheel"), Female Artist of the Year and Rising Star.
+The album was self-produced by Banks, also earning her a nomination for Producer of the Year.
+It was released on April 14, 2009 by On Ramp Records/EMI Canada.
+The album's first single "The Wheel," earned a 2010 Canadian Radio Music Award nomination.
+Subsequent singles included "When You Can Fly," "Kiss Me, "This Old Halo" and "Don't Leave the Leavin'."
+Music videos for "The Wheel" and "When You Can Fly" received airplay on CMT Canada.
+
+"Love Can't Wait (Nick Carter song)"
+"Love Can't Wait" is a song by American singer-songwriter Nick Carter, released as the lead Canadian single from his second studio album, "I'm Taking Off".
+The single was released on June 21, 2011.
+The song only appears on the Canadian version of the album, and has not been released in any other territories.
+The music video for the song features Carter performing the song with the backdrop of a motorway system.
+The music video also featured Canadian pop star Shawn Desman, who co-wrote the song.
+The single peaked at #2 on the Canadian Singles Chart, based entirely on download sales.
+Carter ran a competition for amateur mixers to remix the track, with the winning remixer earning $1500 and their remix appearing on Carter's remix album, "I'm Taking Off: Relaunched and Remixed".
+
+"Super Star (S.H.E album)"
+Super Star is the fourth studio album by Taiwanese girl group S.H.E.
+It was released on 22 August 2003.
+Ella suffered a back injury during the shooting of a television show one month before the album was released.
+Because of this, Ella is absent from some of the music videos.
+As of 2006, the single "Super Star" from this album has been S.H.E's biggest hit.
+German producer Roberto "Geo" Rosan and vocalist Jade Villalon, as Sweetbox, composed "Super Star" for S.H.E during the sessions for Sweetbox's Adagio, and they also released their own English version as a single at the time.
+In 2004, Canadian singer Skye Sweetnam re-recorded "Super Star" as "Superstar".
+
+"Kenny Hotz"
+Kenneth Joel "Kenny" Hotz is a Canadian comedy writer, producer, director, actor and comedian.
+Hotz is a "South Park" consultant and writer, creator/star of the Comedy Central television show "Kenny vs. Spenny", creator and writer of the FX series "Testees", and the creator/star of "Kenny Hotz's Triumph of the Will".
+He has received numerous awards for his television work— from the Academy of Canadian Cinema & Television the Gemini Awards and the Canadian Comedy Awards—and is a multiple-time film festival award-winner.
+He is also an award-winning "Vice" contributor and Gulf war photo-journalist.
+
+"Carrie Fisher"
+Carrie Frances Fisher (October 21, 1956 – December 27, 2016) was an American actress, writer, and humorist.
+Fisher was known for playing Princess Leia in the "Star Wars" films; a role for which she was nominated for three Saturn Awards.
+Her other film roles included "Shampoo" (1975), "The Blues Brothers" (1980), "Hannah and Her Sisters" (1986), "The 'Burbs" (1989), "When Harry Met Sally..." (1989), "Soapdish" (1991) and "The Women" (2008 film).
+She was nominated twice for the Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series for her performances on the television series "30 Rock" and "Catastrophe".
+She was posthumously made a Disney Legend in 2017.
+
+question:
+What star if the Burbs was Canadian?
+
+
+answer(1):
+Richard "Rick" Ducommun
+supporting facts:
+The 'Burbs 0
+Rick Ducommun 0
+
+
+answer(2):
+Wendy Schaal
+supporting facts:
+The 'Burbs 0
+Rick Ducommun 0
+Carrie Fisher 0
+
+
+
+
+[3]
+
+
+context: 
+
+
+"Etheridge Knight"
+Etheridge Knight (April 19, 1931 – March 10, 1991) was an African-American poet who made his name in 1968 with his debut volume, "Poems from Prison".
+The book recalls in verse his eight-year-long sentence after his arrest for robbery in 1960.
+By the time he left prison, Knight had prepared a second volume featuring his own writings and works of his fellow inmates.
+This second book, first published in Italy under the title "Voce negre dal carcere," appeared in English in 1970 as "Black Voices from Prison".
+These works established Knight as one of the major poets of the Black Arts Movement, which flourished from the early 1960s through the mid-1970s.
+With roots in the Civil Rights Movement, Malcolm X and the Nation of Islam, and the Black Power Movement, Etheridge Knight and other American artists within the movement sought to create politically engaged work that explored the African-American cultural and historical experience.
+
+"Tommie Smith"
+Tommie C. Smith (born June 6, 1944) is an American former track & field athlete and wide receiver in the American Football League.
+At the 1968 Summer Olympics, Smith, aged 24, won the 200-meter sprint finals and gold medal in 19.83 seconds – the first time the 20-second barrier was broken legally.
+His Black Power salute with John Carlos atop the medal podium to protest the harsh, and sometimes deadly discrimination against African-Americans because of their skin color in the United States caused controversy as it was seen as politicizing the Olympic Games.
+It remains a symbolic moment in the history of the Black Power movement.
+
+"Rainbow Coalition (Fred Hampton)"
+The Rainbow Coalition was a coalition active in the late 1960s and early 1970s, founded in Chicago, Illinois by Fred Hampton of the activist Black Panther Party, along with William "Preacherman" Fesperman, Jack (Junebug) Boykin, Bobby Joe Mcginnis and Hy Thurman of the Young Patriots Organization and the founder of the Young Lords as a civil and human rights movement Jose Cha Cha Jimenez.
+It later expanded to include various radical socialist groups and community groups like the Lincoln Park Poor People's Coalition.
+It was associated with the rising Black Power movement, which mobilized some African-American discontent and activism by other ethnic minority groups after the passage of the mid-1960s civil rights legislation under Democratic President Lyndon B. Johnson.
+
+"Maulana Karenga"
+Maulana Ndabezitha Karenga (born Ronald McKinley Everett; July 14, 1941) is an African-American professor of Africana studies, activist and author, best known as the creator of the pan-African and African-American holiday of Kwanzaa.
+Karenga was a major figure in the Black Power movement of the 1960s and 1970s, and co-founded with Hakim Jamal the black nationalism and social change organization US.
+
+"African-American bookstores"
+African-American bookstores, also known as black bookstores, are bookstores owned and operated by African Americans.
+These stores often, although not always, specialize in works by and about African Americans and their target customers are often African Americans.
+Although they are a variety of African-American business, African American bookstores have often been closely tied to radical political movements including Marxism, Black Power, and pan-Africanism.
+The first documented African-American bookstore was established by the abolitionist David Ruggles in 1834.
+One of the earliest African-American bookstores to achieve national prominence was Lewis Michaux's National Memorial African Bookstore, which operated in Harlem from the early 1930s to the middle of the 1970s.
+Michaux's store doubled as a meeting place for black activists, including most famously Malcolm X.
+The Black Power movement embraced black-owned bookstores in the 1960s and '70s as vehicles for promoting their ideology and creating radical political spaces in black communities across the United States.
+By the 1990s, African-American bookstores earned significant attention from more politically moderate and business oriented media outlets such as the magazine Black Enterprise.
+In the 2000s and 2010s, however, as independent bookstores of all kinds declined and bookstores chains and Amazon increasingly sold black-authored books, the number of African-American bookstores declined rapidly, dropping from over 250 to just over 70.
+
+"Black Arts Movement"
+The Black Arts Movement, Black Aesthetics Movement or BAM is the artistic outgrowth of the Black Power movement that was prominent in the 1960s and early 1970s. "
+Time" magazine describes the Black Arts Movement as the "single most controversial movement in the history of African-American literature – possibly in American literature as a whole."
+The Black Arts Repertory Theatre is a key institution of the Black Arts Movement.
+
+"Hakim Jamal"
+Hakim Abdullah Jamal (March 28, 1931 – May 1, 1973) was the name adopted by African-American activist Allen Donaldson, who was a cousin of Malcolm X and later became an associate of Michael X.
+Jamal wrote "From the Dead Level", a memoir of his life and memories of Malcolm X.
+
+"Black Power: The Politics of Liberation"
+Black Power: The Politics of Liberation is a 1967 book co-authored by Kwame Ture (formerly known as Stokely Carmichael) and political scientist Charles V. Hamilton.
+The work defines Black Power, presents insights into the roots of racism in the United States and means of reforming the traditional political process for the future.
+Published originally as "Black Power: The Politics of Liberation in America", the book has become a staple work produced during the Civil Rights Movement and Black Power movement.
+
+"Black Power movement"
+The Black Power movement was a political movement to achieve a form of Black Power and the many philosophies it contains.
+The movement saw various forms of activism some violent and some peaceful, all hoping to achieve black empowerment.
+The Black Power movement also represented socialist movements, all with the general motivation of improving the standing of black people in society.
+Originated during the Civil Rights Movement, some doubted the philosophy of the movement begging for more radical action, taking influences from Malcolm X.
+The cornerstone of the movement was the Black Panther Party, a Black Power organization dedicated to socialism and the use of violence to achieve it.
+The Black Power movement developed amidst the criticisms of the Civil Rights Movement in the early 1960s, and over time and into the 1970s, the movement grew and became more violent.
+After years of violence, many left the movement and the police began arresting violent actors in the movement.
+The Black Power movement also spilled out into the Caribbean creating the Black Power Revolution.
+
+"Black Power Revolution"
+The Black Power Revolution, also known as the "Black Power Movement", 1970 Revolution, Black Power Uprising and February Revolution, was an attempt by a number of social elements, people and interest groups in Trinidad and Tobago to force socio-political change.
+
+question:
+Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s
+
+
+answer(1):
+Hakim Jamal
+supporting facts:
+Maulana Karenga 1
+Hakim Jamal 0
+
+
+answer(2):
+Hakim Jamal
+supporting facts:
+Hakim Jamal 0
+
+
+
+
+[4]
+
+
+context: 
+
+
+"The Bears and I"
+The Bears and I is a 1974 American drama film directed by Bernard McEveety and written by John Whedon.
+The film stars Patrick Wayne, Chief Dan George, Andrew Duggan, Michael Ansara and Robert Pine.
+The film was released on July 31, 1974, by Buena Vista Distribution.
+
+"Buena Vista, Pennsylvania"
+Buena Vista ( ) is an unincorporated community in Elizabeth Township, Allegheny County, Pennsylvania, United States, located just outside Pittsburgh on the Youghiogheny River.
+The Great Allegheny Passage rail trail runs through the community.
+Buena Vista's ZIP code is 15018.
+For a time, Buena Vista served as a mining town.
+Like many places in the USA with this name, Buena Vista was named for the 1847 Battle of Buena Vista during the Mexican-American War.
+
+"Walt Disney Studios Motion Pictures"
+Walt Disney Studios Motion Pictures (formerly Buena Vista Pictures Distribution and Buena Vista Film Distribution Company) is an American film distributor owned by The Walt Disney Company.
+Established in 1953 as Buena Vista Film Distribution Company, the company handles theatrical distribution, marketing and promotion for films produced and released by the Walt Disney Studios, including Walt Disney Pictures, Walt Disney Animation Studios, Pixar Animation Studios, DisneyToon Studios, Marvel Studios, Lucasfilm, Disneynature, and Touchstone Pictures.
+The division took on its current name in late 2007, which before that had been Buena Vista Pictures Distribution since 1987.
+
+"Buena Vista Downtown Historic District"
+Buena Vista Downtown Historic District is a national historic district located at Buena Vista, Virginia.
+The district encompasses 38 contributing buildings and 1 contributing structure in the central business district of Buena Vista.
+The buildings are primarily one- and two-story masonry structures, with the earliest built in 1889-1890.
+Notable buildings include the Buena Vista Post Office (1930), Buena Vista War Memorial Building (1954), Peoples Bank of Buena Vista (1907), Dickinson Building (c. 1907), Royer’s Restaurant (c. 1940), the Advocate Building (1889), Buena Vista Masonic Building (c. 1910), and the Valley Steam Laundry Building (c. 1905).
+The Buena Vista Company Building (1890) is separately listed as the Old Courthouse.
+
+"List of Walt Disney Pictures films"
+This is a list of films released theatrically under the Walt Disney Pictures banner (known as that since 1983, with "Never Cry Wolf" as its first release) and films released before that under the former name of the parent company, Walt Disney Productions (1929–1983).
+Most films listed here were distributed in the United States by the company's distribution division, Walt Disney Studios Motion Pictures (formerly known as Buena Vista Distribution Company [1953–1987] and Buena Vista Pictures Distribution [1987–2007]).
+The Disney features produced before "Peter Pan" (1953) were originally distributed by RKO Radio Pictures, and are now distributed by Walt Disney Studios Motion Pictures.
+
+"Oceans (film)"
+Oceans (French: Océans ) is a 2009 French nature documentary film directed, produced, co-written, and narrated by Jacques Perrin, with Jacques Cluzaud as co-director.
+The film explores the marine species of Earth's five oceans and reflects on the negative aspects of human activity on the environment, with Perrin (Pierce Brosnan in English) providing narration.
+
+"Buena Vista High School (Michigan)"
+Buena Vista High School was a public high school located at 3945 East Holland in Buena Vista Charter Township, Michigan and was part of the former Buena Vista School District.
+The school was closed when the Buena Vista School District was dissolved in July 2013.
+Buena Vista's mascot was the Knights, and its colors were blue and white.
+The school's athletic program competed in the Greater Thumb Conference as a Class C, and later in the Highland Conference as a Class D school.
+
+"Buena Vista (brand)"
+Buena Vista is a brand name which was historically often used for divisions and subsidiaries of The Walt Disney Company, whose primary studios, the Walt Disney Studios, are located on Buena Vista Street in Burbank, California.
+(The studio lot is also home to the Company's corporate headquarters, the Team Disney Burbank building.)
+The logos for the various Buena Vista brands featured the "Buena Vista" wordmark superimposed over the Disney Castle image to signal the affiliation between Buena Vista and Disney.
+The name literally means "good view" in Spanish.
+
+"Best Western Lake Buena Vista Resort Hotel"
+The Best Western Lake Buena Vista Resort Hotel is a 325-room resort that is on the property of Walt Disney World Resort in Lake Buena Vista, Florida.
+The resort is located across from the Disney Springs area.
+The hotel originally opened in November 1972 as the Travelodge at Lake Buena Vista.
+It was operated by Travelodge from 1972 through 1983, then in 1984 the resort became the Viscount Hotel and operated as such until 1988.
+In 1989, it was reacquired by Travelodge.
+In 2000, the Travelodge hotel switched over to become the Best Western Lake Buena Vista Resort Hotel.
+The hotel was renovated in 2004 and has 2 outdoor pools.
+
+"Buena Vista Park"
+Buena Vista Park is a park in the Haight-Ashbury and Buena Vista Heights neighborhoods of San Francisco, California.
+It is the oldest official park in San Francisco, established in 1867 as Hill Park, later renamed Buena Vista.
+It is bounded by Haight Street to the north, and by Buena Vista Avenue West and Buena Vista Avenue East.
+The park is on a steep hill that peaks at 575 feet , and covers 37 acre .
+The lowest section is the north end along Haight.
+
+question:
+In between The Bears and I and Oceans which was released on July 31, 1974, by Buena Vista Distribution?
+
+
+answer(1):
+The Bears and I
+supporting facts:
+The Bears and I 0
+The Bears and I 2
+Oceans (film) 0
+
+
+answer(2):
+The Bears and I
+supporting facts:
+The Bears and I 0
+The Bears and I 2
+
+
+
+
+[5]
+
+
+context: 
+
+
+"San Diego State Aztecs baseball"
+The San Diego State Aztecs baseball team is the college baseball program that represents the San Diego State University.
+Along with the university's other athletic teams, the baseball team became a member of the Mountain West Conference during the 1999–00 academic year.
+Previously, the baseball program competed in the Western Athletic Conference.
+The Aztecs play in Tony Gwynn Stadium, on the SDSU campus in San Diego, California.
+From 2003 until his death in 2014, Tony Gwynn was the program's head coach.
+
+"2012 San Diego State Aztecs football team"
+The 2012 San Diego State Aztecs football team represented San Diego State University in the 2012 NCAA Division I FBS football season.
+The Aztecs were led by second-year head coach Rocky Long and played their home games at Qualcomm Stadium.
+This was San Diego State's 14th season in the Mountain West Conference.
+
+"Viejas Arena"
+Viejas Arena at Aztec Bowl (formerly named Cox Arena), located on the San Diego State University (SDSU) campus in San Diego, California, is the home of the San Diego State Aztecs men's basketball and women's basketball teams.
+Viejas Arena opened its doors to the campus and community in July 1997 and seats 12,414 for basketball and up to 12,845 for concerts.
+The facility also hosts SDSU's commencement ceremonies.
+Previously, the Aztecs played at Peterson Gymnasium also on the SDSU campus.
+However, the men's basketball team played most of their home games at the San Diego Sports Arena prior to Viejas Arena's construction.
+
+"San Diego State Aztecs men's soccer"
+The San Diego State Aztecs men's soccer team is a varsity intercollegiate athletic team of San Diego State University in San Diego, California, United States.
+The team is an associate member of the Pac-12 Conference, which is part of the National Collegiate Athletic Association's Division I.
+San Diego State's first men's soccer team was fielded in 1968.
+The team plays its home games at SDSU Sports Deck in San Diego.
+The Aztecs are coached by Lev Kirshner.
+
+"2016 San Diego State Aztecs football team"
+The 2016 San Diego State Aztecs football team represented San Diego State University in the 2016 NCAA Division I FBS football season.
+The Aztecs were led by sixth-year head coach Rocky Long and played their home games at Qualcomm Stadium.
+They were members of the West Division of the Mountain West Conference.
+They finished the season 11–3, 6–2 in Mountain West play to be champions of the West Division.
+They represented the West Division in the Mountain West Championship Game where they defeated Wyoming to be crowned Mountain West champions for the second consecutive year.
+They were invited to the Las Vegas Bowl where they defeated Houston.
+
+"2007 San Diego State Aztecs football team"
+The 2007 San Diego State Aztecs football team represented San Diego State University in the 2007 NCAA Division I FBS college football season.
+The Aztecs, led by head coach Chuck Long, played their home games at the Qualcomm Stadium.
+They finished with a record of 4–8 (3–5 MWC).
+
+"1970 San Diego State Aztecs football team"
+The 1970 San Diego State Aztecs football team represented San Diego State College during the 1970 NCAA University Division football season as a member of the Pacific Coast Athletic Association.
+The team was led by head coach Don Coryell, in his tenth year, and they played their home games at San Diego Stadium in San Diego, California.
+They finished the season as co-champions of the conference, with a record of nine wins and two losses (9–2, 5–1 PCAA).
+
+"Chuck Long"
+Charles Franklin Long Jr. (born February 18, 1963) is an American football coach.
+He played quarterback in college at Iowa for Hayden Fry and professionally with the Detroit Lions and the Los Angeles Rams.
+He is an inductee of the College Football Hall of Fame.
+After his professional career, Chuck became the head football coach of San Diego State University, but was fired on November 23, 2008.
+Long also held a position as the offensive coordinator for the Kansas Jayhawks under head coach Turner Gill before Gill was fired in 2011.
+Later, Chuck became an analyst for the Big Ten Network.
+On September 11, 2014 Chuck was named the CEO and Executive Director of the Iowa Sports Foundation, the organization that runs the Iowa Games, the Senior Games and the Live Healthy Iowa challenge.
+
+"2014 San Diego State Aztecs football team"
+The 2014 San Diego State Aztecs football team represented San Diego State University in the 2014 NCAA Division I FBS football season.
+The Aztecs were led by fourth-year head coach Rocky Long and played their home games at Qualcomm Stadium.
+They were members of the West Division of the Mountain West Conference.
+San Diego State finished the season 7–6, 5–3 in Mountain West play to finish in a share for first place in the West Division.
+However, due to Mountain West tiebreaker rules, because of their head to head loss to Fresno State they were not considered division co–champions.
+They were invited to the Poinsettia Bowl where they lost to Navy 16–17.
+
+"2017 San Diego State Aztecs football team"
+The 2017 San Diego State Aztecs football team represents San Diego State University in the 2017 NCAA Division I FBS football season.
+The Aztecs are led by seventh-year head coach Rocky Long and play their home games at SDCCU Stadium.
+SDSU is a member of the Mountain West Conference in the West Division.
+
+question:
+Which two teams did the the head coach of The 2007 San Diego State Aztecs play for professionally?
+
+
+answer(1):
+Detroit Lions and the Los Angeles Rams
+supporting facts:
+2007 San Diego State Aztecs football team 0
+2007 San Diego State Aztecs football team 1
+Chuck Long 1
+
+
+answer(2):
+Detroit Lions
+supporting facts:
+2007 San Diego State Aztecs football team 0
+2007 San Diego State Aztecs football team 1
+
+
+
+

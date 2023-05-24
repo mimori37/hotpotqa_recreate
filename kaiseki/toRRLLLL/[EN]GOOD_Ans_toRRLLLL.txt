@@ -1,0 +1,439 @@
+[RRRRRR_to_RRLLLL_得意になった質問]
+
+[1]
+
+
+context: 
+
+
+"2017 Texas Tech Red Raiders baseball team"
+The 2017 Texas Tech Red Raiders baseball team represents Texas Tech University during the 2017 NCAA Division I baseball season.
+The Red Raiders play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference.
+They are led by head coach Tim Tadlock, in his 5th season at Texas Tech.
+
+"List of Texas Tech Red Raiders in the NFL Draft"
+The Texas Tech Red Raiders football team, representing Texas Tech University, has had 151 players drafted into the National Football League (NFL) since the league began holding drafts in 1936.
+This includes six players taken in the first round and one overall number one pick, Dave Parks in the 1964 NFL Draft.
+The Green Bay Packers and Chicago Bears have drafted the most Red Raiders, eleven and nine, respectively.
+The Carolina Panthers and Jacksonville Jaguars are the only current franchises to not have drafted a player from Texas Tech.
+Three former Red Raiders have been selected to a Pro Bowl, seven former Red Raiders have won a league championship with their respective teams, and three former Red Raiders have been selected to both a Pro Bowl and won a league championship.
+
+"Grady Higginbotham"
+Grailey Hewett "Grady" "Big Hig" Higginbotham (December 31, 1892 – February 10, 1989) was an American football and baseball player, coach of football, basketball, and baseball, and college athletics administrator.
+He was the first head coach of the Texas Tech Red Raiders men's basketball team, leading it to a 14–18 record from 1925 to 1927.
+Higginbotham coached the Red Raiders baseball team to a 10–17 record from 1928 to 1929.
+He was also the head coach of the Texas Tech Red Raiders football team in 1929, tallying a mark of 1–7–2.
+He was the athletic director at Texas Tech from 1927 to 1929.
+Higginbotham played college football and college baseball at Texas A&M University.
+After graduating, he played in minor league baseball or several years.
+He was the older brother of Roswell G. Higginbotham, who also played at Texas A&M and became a college baseball coach.
+
+"United Supermarkets Arena"
+United Supermarkets Arena (previously the United Spirit Arena) is a multi-purpose arena on the campus of Texas Tech University in Lubbock, Texas.
+The 15,098-seat arena opened in 1999 and is home to the Texas Tech Red Raiders basketball, Texas Tech Lady Raiders basketball and Texas Tech Red Raiders women's volleyball teams.
+
+"Texas Tech Red Raiders baseball"
+The Texas Tech Red Raiders baseball team represents Texas Tech University in NCAA Division I college baseball.
+The team competes in the Big 12 Conference and plays at Dan Law Field at Rip Griffin Park.
+Their head coach is Tim Tadlock and he is in his 5th season with the Red Raiders.
+
+"2016 Texas Tech Red Raiders baseball team"
+The 2016 Texas Tech Red Raiders baseball team represents Texas Tech University during the 2016 NCAA Division I baseball season.
+The Red Raiders play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference.
+They are led by head coach Tim Tadlock, in his 4th season at Texas Tech.
+
+"2014 Texas Tech Red Raiders baseball team"
+The 2014 Texas Tech Red Raiders baseball team represents Texas Tech University in the 2014 college baseball season.
+Texas Tech competes in Division I of the National Collegiate Athletic Association (NCAA) as a charter member of the Big 12 Conference.
+The Red Raiders play home games at Dan Law Field at Rip Griffin Park on the university's campus in Lubbock, Texas.
+Second year head coach Tim Tadlock leads the Red Raiders, a former starting shortstop for the team during the 1990 and 1991 seasons.
+
+"Dan Law Field at Rip Griffin Park"
+Dan Law Field at Rip Griffin Park, nicknamed "The Law", is the home stadium of the Texas Tech Red Raiders baseball team in Lubbock, Texas.
+It is located on the Texas Tech University campus, adjacent to Jones AT&T Stadium and Fuller Track.
+Dan Law Field was rated as one of the top three places to watch a college baseball game by "Sports Illustrated On Campus".
+
+"2015 Texas Tech Red Raiders baseball team"
+The 2015 Texas Tech Red Raiders baseball team will represent Texas Tech University during the 2015 NCAA Division I baseball season.
+The Red Raiders will play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference.
+They will be led by head coach Tim Tadlock, in his 3rd season at Texas Tech.
+
+"2011 Texas Tech Red Raiders football team"
+The 2011 Texas Tech Red Raiders football team represented Texas Tech University in the 2011 NCAA Division I FBS football season.
+The Red Raiders were led for the second year by head coach Tommy Tuberville, and played their home games at Jones AT&T Stadium.
+They are a member of the Big 12 Conference.
+The 2011 Red Raiders Season finished with a 5–7 overall record, 2–7 in Big 12 play.
+It was the first losing season for Texas Tech football since the 1992 season.
+As a result, the Red Raiders failed to qualify for a bowl game for the first time since 1999.
+
+question:
+What institution does 2017 Texas Tech Red Raiders baseball team and Dan Law Field at Rip Griffin Park have in common?
+
+
+answer(1):
+University
+supporting facts:
+2017 Texas Tech Red Raiders baseball team 0
+Dan Law Field at Rip Griffin Park 0
+
+
+answer(2):
+Texas Tech University
+supporting facts:
+2017 Texas Tech Red Raiders baseball team 0
+2016 Texas Tech Red Raiders baseball team 0
+Dan Law Field at Rip Griffin Park 0
+
+
+
+
+[2]
+
+
+context: 
+
+
+"Infinity Institute"
+Infinity Institute is a public middle school / high school located in the Greenville section of Jersey City, in Hudson County, New Jersey, United States, serving students in sixth through twelfth grades as part of the Jersey City Public Schools.
+The school was established in September 1999 as a partnership between the Jersey City Board of Education and Hudson County Community College.
+
+"William L. Dickinson High School"
+William L. Dickinson High School is a four-year comprehensive community public high school located in Jersey City, Hudson County, New Jersey, United States, serving students in ninth through twelfth grades as part of the Jersey City Public Schools.
+Dickinson occupies a prominent location on Bergen Hill overlooking lower Jersey City and the New York Harbor.
+The school has been accredited by the Middle States Association of Colleges and Schools Commission on Secondary Schools since 1929.
+
+"University Academy Charter High School"
+University Academy Charter High School is a four-year comprehensive public charter high school that serves students in ninth through twelfth grades from Jersey City, in Hudson County, New Jersey, United States.
+The school opened in the 2002-03 school year and operates under the terms of a charter granted by the New Jersey Department of Education in 2001.
+Through its affiliation with New Jersey City University, students who graduate from the school with a grade point average of 3.2 or higher are eligible to receive a four-year scholarship to NJCU.
+
+"Dr. Ronald E. McNair Academic High School"
+Dr. Ronald E. McNair Academic High School (often dubbed Academic previous to its dedication, or as McNair) is a Magnet public high school located at 123 Coles Street in Jersey City, in Hudson County, New Jersey, United States.
+The school is named in memory of Dr. Ronald E. McNair, the astronaut and scientist who died in the Space Shuttle "Challenger" disaster.
+McNair is part of the Jersey City Public Schools district.
+The school has been accredited by the Middle States Association of Colleges and Schools Commission on Secondary Schools since 1979.
+
+"Ronald McNair"
+Ronald Erwin McNair (October 21, 1950 – January 28, 1986) was an American physicist and NASA astronaut.
+He died during the launch of the Space Shuttle "Challenger" on mission STS-51-L, where he was serving as the Mission Specialist.
+He is survived by his wife, Cheryl, and two children.
+
+"Lincoln High School (New Jersey)"
+Lincoln High School Academy of Governance and Social Sciences is a four-year public high school located in Jersey City, in Hudson County, New Jersey, United States, operated as part of the Jersey City Public Schools, serving students in ninth through twelfth grade.
+The school has been accredited by the Middle States Association of Colleges and Schools Commission on Secondary Schools since 1928.
+
+"Willits High School"
+Willits High School is a high school located in Willits, California, United States.
+The school opened in September, 1904, and met on the second floor of the Maize Mercantile Building on the corner of Main and Commercial Streets.
+Three years later, a new high school was built at Pine and Maple Streets.
+Willits High School held classes there until the school burned in November, 1928.
+In 1929, a new high school was built on the present location (299 North Main Street).
+It was remodeled in 1958, and again in 1988.
+In 1990, it was recognized as a Distinguished School by the California Department of Education.
+From a graduating class of four in 1904 to 123 in 2008, Willits High School continues to stand for quality education.
+The school mascot is a wolverine.
+
+"United Senior High School (Illinois)"
+United High School or UHS, is a public four-year high school located at 1905 100th Street near Monmouth, Illinois, a city of Warren County, Illinois, in the Midwestern United States.
+UHS is part of United Community Unit School District 304, which also includes United Junior High School, United North Elementary School, and United West Elementary School.
+Despite the Alexis United misnomer sometimes used to describe the high school, the campus is actually located 2 miles east of Monmouth, IL, though the district's north campus and one of the elementary schools is located in Alexis, Illinois.
+The misnomer is due to the district office previouly being located in Alexis, Illinois.
+It has since been moved to the high school campus.
+The school serves a mixed city fringe, village, and rural residential community on the outskirts of the city of Monmouth, in the villages of Alexis, Kirkwood, Little York, North Henderson, and the unincorporated communities of Cameron and Gerlaw.
+Much of the school district is within the Galesburg micropolitan statistical area.
+United High School was formed by the consolidation of Alexis High School and Monmouth Warren High School in 2004.
+In 2007 Monmouth Yorkwood High School deactivated and was annexed into United High School.
+
+"Harsimus"
+Harsimus (also known as Harsimus Cove) is a neighborhood within Downtown Jersey City, Hudson County, New Jersey, United States.
+The neighborhood stretches from the Harsimus Stem Embankment (the Sixth Street Embankment) on the north to Christopher Columbus Drive on the south between Coles Street and Grove Street or more broadly, to Marin Boulevard.
+It borders the neighborhoods of Hamilton Park to the north, Van Vorst Park to the south, the Village to the west, and the Powerhouse Arts District to the east.
+Newark Avenue has traditionally been its "main street".
+The name is from the Lenape, used by the Hackensack Indians who inhabited the region and could be translated as "Crow’s Marsh".
+From many years, the neighborhood was part of the “Horseshoe”, a political delineation created by its position between the converging rail lines and political gerrymandering.
+
+"Liberty High School (New Jersey)"
+Liberty High School is a four-year public high school located in Jersey City, in Hudson County, New Jersey, United States, serving students in ninth through twelfth grades as part of the Jersey City Public Schools.
+The school was established in September 1999 as a partnership between the Jersey City Board of Education and Hudson County Community College.
+
+question:
+What was the first name of the wife of the namesake of the high school located at 123 Coles Street in Jersey City?
+
+
+answer(1):
+Erwin McNair
+supporting facts:
+Ronald McNair 0
+Ronald McNair 2
+
+
+answer(2):
+Cheryl
+supporting facts:
+Ronald McNair 0
+Ronald McNair 2
+
+
+
+
+[3]
+
+
+context: 
+
+
+"1894 FA Cup Final"
+The 1894 FA Cup Final was contested by Notts County and Bolton Wanderers at Goodison Park.
+Notts County won 4–1, with goals by James Logan (3) and Arthur Watson.
+Jim Cassidy scored for Bolton.
+Notts County became the first team from outside the top flight to win the FA Cup.
+
+"2015 FA Women's Cup Final"
+The 2015 FA Women's Cup Final was the 45th final of the FA Women's Cup, England's primary cup competition for Harshavardhan women's football teams.
+The showpiece event was the 22nd to be played directly under the auspices of the Football Association (FA) and was named the SSE Women's FA Cup Final for sponsorship reasons.
+The final was contested between Chelsea Ladies and Notts County Ladies on 1 August 2015 at Wembley Stadium in London.
+Chelsea made its second final appearance, after losing the 2012 final.
+Notts County appeared in its first ever final.
+
+"James Logan (footballer, born 1870)"
+James "Jimmy" Logan (24 June 1870 – 25 May 1896) was a Scottish professional footballer.
+He was most famous for scoring a hat-trick in the 1894 FA Cup Final for Notts County in a 4–1 victory over Bolton Wanderers.
+
+"List of Notts County F.C. seasons"
+Notts County Football Club were formed in 1862 and were one of the founder members of The Football League in 1888.
+Their victory in the 1894 FA Cup Final represents their only major honour to date.
+Their highest league finish in the top division is third place, which they achieved in 1890–91 and 1900–01, while in the League Cup the club has never progressed beyond the quarter-final stage.
+The table details the club's achievements in all national and European first team competitions, and records their top goalscorer, for each completed season.
+
+"List of FA Cup Finals"
+The Football Association Challenge Cup, commonly known as the FA Cup, is a knockout competition in English football, organised by and named after The Football Association (the FA).
+It is the oldest existing football competition in the world, having commenced in the 1871–72 season.
+The tournament is open to all clubs in the top 10 levels of the English football league system, although a club's home stadium must meet certain requirements prior to entering the tournament.
+The competition culminates at the end of the league season usually in May with the FA Cup Final, officially named The Football Association Challenge Cup Final Tie, which has traditionally been regarded as the showpiece finale of the English football season.
+
+"Notts County F.C."
+Notts County Football Club is a professional association football club based in the city of Nottingham, Nottinghamshire, England.
+With records of games as early as 28 November 1862, Notts County is recognised as the oldest association football team in the world now playing at a professional level.
+Between 1888–89 and 2013–14 they played a total of 4,756 Football League matches – more than any other English team.
+The team plays in League Two, the fourth tier of the English football league system.
+County play their home games at Meadow Lane in black and white striped shirts.
+
+"Bolton Wanderers F.C."
+Bolton Wanderers Football Club ( ) is a professional association football club based in Bolton, Greater Manchester.
+The club currently competes in the Championship, the second tier of the English football league system.
+
+"Daniel Bruce (footballer)"
+Daniel Bruce (20 October 1870 – 6 February 1931) was a Scotland international footballer who played on the losing side in the 1890 Scottish Cup Final for Vale of Leven and on the winning side in the 1894 FA Cup Final for Notts County.
+He scored 49 goals in 98 appearances in the Football League playing for Notts County and Small Heath.
+He played as a left-sided or centre forward.
+
+"1891 FA Cup Final"
+The 1891 FA Cup Final was contested by Blackburn Rovers and Notts County at the Kennington Oval.
+Blackburn won 3–1, their second consecutive FA Cup Final victory, with goals by Geordie Dewar, Jack Southworth and William Townley.
+James Oswald scored Notts County's goal.
+
+"List of Sunderland A.F.C. seasons"
+Sunderland Association Football Club was founded in 1879 as Sunderland & District Teachers Association Football Club by James Allan.
+They turned professional in 1885.
+Sunderland won their first Football League championship in the 1891–92 season two years after joining the league.
+They won the next Football League First Division on three occasions in four seasons; in 1892, 1893 and 1895, separated by a runner-up spot in 1894.
+In the 1901–02 season, Sunderland won their fifth Football League First Division championship.
+They came close to completing the "league and cup double" in the 1912–13 season, winning the league but losing to Aston Villa in the 1913 FA Cup Final.
+The team's next success came in the 1935–36 season when they won the League Championship and also the Charity Shield.
+They had not won the FA Cup until the 1936–37 season when they defeated Preston North End in the 1937 FA Cup Final.
+Sunderland entered The Football League in 1890 and were not relegated from the top division until the 1957–58 season; a total of 58 seasons in the highest division of England.
+Their next trophy came in the 1973 FA Cup Final as they beat Leeds United 1–0.
+They reached the 1985 Football League Cup Final but finished as runners-up to Norwich City after being beaten 1–0.
+In the 1986–87 season Sunderland were relegated to the Football League Third Division for the first time in their history under the management of Lawrie McMenemy, they however, returned to the second division the following season as champions–their lowest position in the English football league system.
+Their first appearance in the Premier League came in the 1999–2000 season after being promoted as champions from Division One.
+In winning promotion the club gained 105 points, which was a record at the time.
+Sunderland gained just 15 points in the 2005-06 season, which set the record for the lowest number of points in a Premier League season, which has since been eclipsed by Derby County.
+
+question:
+In which tier of the English football league system does the team which competed against Notts County in the 1894 FA Cup Final currently compete? 
+
+
+answer(1):
+second tier
+supporting facts:
+Notts County F.C. 3
+Bolton Wanderers F.C. 0
+Bolton Wanderers F.C. 1
+
+
+answer(2):
+second
+supporting facts:
+Bolton Wanderers F.C. 1
+
+
+
+
+[4]
+
+
+context: 
+
+
+"Saint Genet"
+Saint Genet, Actor and Martyr (French: "Saint Genet, comédien et martyr" ) is a book by the French philosopher Jean-Paul Sartre about the writer Jean Genet especially on his "The Thief's Journal".
+It was first published in 1952.
+Sartre described it as an attempt "to prove that genius is not a gift but the way out that one invents in desperate cases."
+Sartre also based his character Goetz in his play "The Devil and the Good Lord" (1951) on his analysis of Genet's psychology and morality.
+Sartre has been credited by David M. Halperin with providing, "a brilliant, subtle, and thoroughgoing study of the unique subjectivity and gender positioning of gay men".
+
+"The Transcendence of the Ego"
+The Transcendence of the Ego (French: "La Transcendance de l'ego: Esquisse d'une description phénomenologique" ) is a philosophical and psychological essay written by Jean-Paul Sartre in 1934 and published in 1936.
+The essay demonstrates Sartre’s transition from traditional phenomenological thinking and most notably his break from Edmund Husserl’s school of thought (phenomenology), and into his own.
+This transition is more apparent after Sartre’s military service from 1939 where we observe a rather more sympathetic view of being in the world, a topic that is dealt with in much greater detail in his 1943 work "Being and Nothingness".
+This essay begins Sartre's study and hybridisation of phenomenology and ontology.
+
+"SHAW: The Annual of Bernard Shaw Studies"
+SHAW: The Annual of Bernard Shaw Studies is an academic journal devoted to the works and life of George Bernard Shaw.
+The journal is published annually by the Penn State University Press.
+The journal formerly went by the names "Bulletin (Shaw Society of America)" (1951–1958) and "The Shaw Review" (1959–1980).
+
+"Jean-Paul Sartre Experience"
+The Jean-Paul Sartre Experience, later renamed JPS Experience after a lawsuit by the estate of Jean-Paul Sartre, were an indie rock band on New Zealand's Flying Nun Records.
+
+"Bianca Lamblin"
+Bianca Lamblin (born Bienenfeld) (April 1921 in Lublin – 5 November 2011) was a French writer who was romantically involved with both Jean-Paul Sartre and his lifelong companion Simone de Beauvoir, for a number of years.
+Her book, "Mémoires d'une Jeune Fille Dérangée" (published in English under the title, "A Disgraceful Affair"), is an account of her long-lasting involvement with two of the most prominent French thinkers of the twentieth century.
+In correspondence between Sartre and Beauvoir, the pseudonym Louise Védrine was used when referring to Bianca in "Lettres au Castor" and in "Lettres à Sartre".
+Lamblin later lamented of being abused by both Sartre and Beauvoir.
+
+"Jean-Paul Sartre"
+Jean-Paul Charles Aymard Sartre ( ; ] ; 21 June 1905 – 15 April 1980) was a French philosopher, playwright, novelist, political activist, biographer, and literary critic.
+He was one of the key figures in the philosophy of existentialism and phenomenology, and one of the leading figures in 20th-century French philosophy and Marxism.
+
+"Gingold Theatrical Group"
+Gingold Theatrical Group, often abbreviated as GTG, is a New York-based non-profit theatre company.
+It was founded in 2006 by American actor and director David Staller.
+Its mission is to present works that carry the humanitarian values of writer and critic George Bernard Shaw.
+It presents several series, including the annual festival Shaw New York, and the monthly series of staged readings, Project Shaw.
+Through this series, GTG became the first theatre group to present all 65 of George Bernard Shaw's plays.
+
+"Jean-Paul Sartre Experience EP"
+The Jean-Paul Sartre Experience is an EP by New Zealand band Jean-Paul Sartre Experience released in 1986.
+
+"George Bernard Shaw"
+George Bernard Shaw ( ; 26 July 1856 – 2 November 1950), known at his insistence simply as Bernard Shaw, was an Irish playwright, critic and polemicist whose influence on Western theatre, culture and politics extended from the 1880s to his death and beyond.
+He wrote more than sixty plays, including major works such as "Man and Superman" (1902), "Pygmalion" (1912)" and Saint Joan" (1923).
+With a range incorporating both contemporary satire and historical allegory, Shaw became the leading dramatist of his generation, and in 1925 was awarded the Nobel Prize in Literature.
+
+"LÉ George Bernard Shaw (P64)"
+LÉ "George Bernard Shaw" (P64) is a "Samuel Beckett"-class offshore patrol vessel (OPV) which, as of March 2017 , is under construction for the Irish Naval Service.
+It is expected to be named for writer George Bernard Shaw, and the fourth ship in a series of vessels designed by Vard Marine and built by Babcock Marine Appledore.
+
+question:
+Jean-Paul Sartre or George Bernard Shaw  have more influence on turn of the century literature?
+
+
+answer(1):
+Jean-Paul Sartre
+supporting facts:
+Jean-Paul Sartre Experience 0
+Jean-Paul Sartre 0
+Jean-Paul Sartre 1
+George Bernard Shaw 0
+George Bernard Shaw 1
+
+
+answer(2):
+George Bernard Shaw
+supporting facts:
+Jean-Paul Sartre 0
+George Bernard Shaw 0
+
+
+
+
+[5]
+
+
+context: 
+
+
+"Zebrawood"
+The name zebrawood is used to describe several tree species and the wood derived from them.
+Zebrawood is characterized by a striped figure that is reminiscent of a zebra.
+The name originally applied to the wood of "Astronium graveolens", a large tree native to Central America.
+In the 20th century, the most important source of zebrawood was "Microberlinia brazzavillensis", a tree native to Central Africa.
+Other sources include Brazilian "Astronium fraxinifolium", African "Brachystegia spiciformis", Pacific "Guettarda speciosa", and Asian "Pistacia integerrima".
+
+"Los Andes Peruvian University"
+The Los Andes Peruvian University (UPLA) (Spanish: "Universidad Peruana Los Andes" ) is an educational institution created on December 30, 1983 (Law Nº 23.757).
+The main campus is situated in Huancayo, Perú.
+It is one of the most prosperous universities in the central region of the country.
+It is named after the Andes mountains, which surround the city of Huancayo.
+
+"Emepa Alerce"
+The Alerce is an Argentine railcar produced by the Emepa Group in Chascomús, Buenos Aires Province.
+s of 2015 , the units are produced for the General Belgrano Railway's narrow gauge network and are currently used on commuter rail services, though a broad gauge variant is currently in the works.
+They are designed to be easily converted into Electric Multiple Units, though thus far only diesel variants have been produced.
+The Alerce's namesake is a type of coniferous tree native to Argentina and Chile.
+
+"Andean natural region"
+The Andes mountains form the most populated region of Colombia and contain the majority of the country's urban centers.
+They were also the location of the most significant pre-Columbian indigenous settlements.
+Beyond the Colombian Massif in the south-western departments of Cauca and Nariño, the Colombian Andes divide into three branches known as "cordilleras" (from the Spanish for "mountain range"): the West Andes run adjacent to the Pacific coast and is home to the city of Cali.
+The Central Andes run up the center of the country between the Cauca and Magdalena river valleys (to the west and east respectively) and includes the cities of Medellín, Manizales and Pereira.
+The East Andes extend northeast towards the Guajira Peninsula, and includes the cities of Bogotá, Bucaramanga and Cúcuta.
+
+"Alerce"
+Alerce is the Spanish word for two unrelated trees "Larix" (larch) and "Fitzroya", albeit the name was first applied to the larch.
+
+"Munti Wasi"
+Munti Wasi (Ancash Quechua "munti" tree, Quechua "wasi" house, "tree house", also spelled "Monte Huasi") is a 4125 m mountain in the Andes of Peru.
+It is located in the Huánuco Region, Huánuco Province, on the border of the districts of Cayrán and Chaulán.
+It lies northeast of the mountains named Qiwllaqucha and Yawarqucha.
+
+"Fitzroya"
+Fitzroya is a monotypic genus in the cypress family.
+The single living species, Fitzroya cupressoides, is a tall, long-lived conifer native to the Andes mountains of southern Chile and Argentina, where it is an important member of the Valdivian temperate rain forests. Common names include alerce ("larch" in Spanish), lahuán (Spanish, from the Mapuche Native American name "lawal"), and Patagonian cypress.
+The genus was named in honour of Robert FitzRoy.
+
+"Nando Parrado"
+Fernando "Nando" Seler Parrado Dolgay (born 9 December 1949) is one of the sixteen Uruguayan survivors of Uruguayan Air Force Flight 571, which crashed in the Andes mountains on 13 October 1972.
+After spending two months trapped in the mountains with the other crash survivors, he, along with Roberto Canessa, climbed through the Andes mountains over a 10-day period to find help.
+His efforts, supported in various ways by the entire group, have been recognized through books and other media.
+He was portrayed by Ethan Hawke in the 1993 feature film "Alive: Miracle in The Andes".
+
+"Tillandsia"
+Tillandsia is a genus of around 650 species of evergreen, perennial flowering plants in the family Bromeliaceae, native to the forests, mountains and deserts of Central and South America, the southern United States and the West Indies.
+They have naturally been established in diverse environments such as equatorial tropical rain forests, high elevation Andes mountains, rock dwelling (saxicolous) regions, and Louisiana swamps, such as Spanish Moss ("T. usneoides"), a species that grows atop tree limbs.
+Airplant is a common name for plants in this genus.
+Most "Tillandsia" species are epiphytes – i.e. they normally grow without soil while attached to other plants.
+Some are aerophytes or "air plants", which have no roots and grow on shifting desert soil.
+Generally, the thinner-leafed varieties grow in rainy areas and the thick-leafed varieties in areas more subject to drought.
+Most species absorb moisture and nutrients through the leaves from rain, dew, dust, decaying leaves and insect matter, aided by structures called trichomes.
+
+"Echinopsis pachanoi"
+Echinopsis pachanoi (syn.
+Trichocereus pachanoi) — known as San Pedro cactus — is a fast-growing columnar cactus native to the Andes Mountains at 2000 – in altitude.
+It is found in Argentina, Bolivia, Chile, Ecuador and Peru, and it is cultivated in other parts of the world.
+Uses for it include traditional medicine and traditional veterinary medicine, and it is widely grown as an ornamental cactus.
+It has been used for healing and religious divination in the Andes Mountains region for over 3,000 years.
+It is sometimes confused with its close relative "Echinopsis peruviana" (Peruvian torch cactus).
+
+question:
+Who was a species of Alerce tree native to the Andes mountains named after?
+
+
+answer(1):
+Tillandsia
+supporting facts:
+Los Andes Peruvian University 3
+Alerce 0
+Fitzroya 2
+
+
+answer(2):
+Robert FitzRoy
+supporting facts:
+Los Andes Peruvian University 3
+Alerce 0
+
+
+
+

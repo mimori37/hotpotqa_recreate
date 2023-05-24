@@ -1,0 +1,430 @@
+[RRRRRR_to_RRLLLL_苦手になった質問]
+
+[1]
+
+
+context: 
+
+
+"MadMaze"
+MadMaze is an online video game designed by Eric Goldberg and developed by Greg Costikyan in 1989.
+It was the first online game to draw over a million players., and was playable through the Prodigy service.
+The game disappeared in 1999 with the death of the Prodigy service, but with the permission from the service and the creators, fans of the game have rehosted it.
+
+"Toon (role-playing game)"
+Toon is a role-playing game in which the players take the roles of cartoon characters.
+It is subtitled "The Cartoon Roleplaying Game".
+"Toon" was designed by Greg Costikyan and developed by Warren Spector, and first published in 1984 by Steve Jackson Games.
+
+"System of a Down"
+System of a Down, sometimes shortened to System and abbreviated as SOAD, is an Armenian-American heavy metal band from Glendale, California, formed in 1994.
+The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals) and John Dolmayan (drums).
+
+"Greg Costikyan"
+Greg Costikyan (born July 22, 1959, in New York City), sometimes known under the pseudonym "Designer X", is an American game designer and science fiction writer.
+
+"Paranoia (role-playing game)"
+Paranoia is a dystopian science-fiction tabletop role-playing game originally designed and written by Greg Costikyan, Dan Gelber, and Eric Goldberg, and first published in 1984 by West End Games.
+Since 2004 the game has been published under license by Mongoose Publishing.
+The game won the Origins Award for Best Roleplaying Rules of 1984 and was inducted into the Origins Awards Hall of Fame in 2007.
+"Paranoia" is notable among tabletop games for being more competitive than co-operative, with players encouraged to betray one another for their own interests, as well as for keeping a light-hearted, tongue in cheek tone despite its dystopian setting.
+
+"Violence (role-playing game)"
+Violence: The Role-Playing Game of Egregious and Repulsive Bloodshed is a short, 32-page role-playing game written by Greg Costikyan under the pseudonym "Designer X" and published by Hogshead Publishing in 1999 as part of its "New Style" line of games.
+
+"The Creature That Ate Sheboygan"
+The Creature That Ate Sheboygan is a science fiction board game released in 1979 by Simulations Publications (SPI).
+The game was originally designed by Greg Costikyan.
+It won the Charles S. Roberts Award for "Best Fantasy or Science Fiction Game of 1979".
+The game is very similar to the Epyx 1981 release, "Crush, Crumble and Chomp!
+".
+
+"Elect the Dead"
+Elect the Dead is the debut album by rock musician Serj Tankian, lead singer and founding member of Armenian-American metal quartet System of a Down.
+It was released on October 22, 2007.
+Alongside Tankian appears Armenian-American coloratura Ani Maldjian, drummers John Dolmayan from System of a Down and B. Brain Mantia of Primus and Guns N' Roses, Dan Monti on guitars, as well as a string section featuring Antonio Pontarelli.
+
+"John Dolmayan"
+John Hovig Dolmayan (Armenian: Ջոն Դոլմայան , born July 15, 1973) is a Lebanese-born Armenian–American songwriter and drummer.
+He is best known as the drummer of System of a Down.
+Dolmayan is also the drummer for the band Indicator and former drummer for Scars on Broadway.
+His energetic live performances with System Of A Down over the years, have garnered him critical acclaim.
+Loudwire listed him as one of the "Top 50 Hard Rock + Metal Drummers Of All Time" , with Dolmayan being ranked at #22.
+
+"Deathmaze"
+Deathmaze is a board game published by Simulations Publications in January 1980, and designed by Greg Costikyan.
+It falls into the general category of fantasy role playing games, more specifically, dungeon games in which players enter a dungeon, massacre the dungeon dwellers and steal their treasures.
+
+question:
+Did Greg Costikyan have the same profession as John Dolmayan?  
+
+
+answer(1):
+no
+supporting facts:
+Greg Costikyan 0
+
+
+answer(2):
+yes
+supporting facts:
+Greg Costikyan 0
+John Dolmayan 0
+John Dolmayan 1
+
+
+
+
+[2]
+
+
+context: 
+
+
+"General Campaign Star"
+The General Campaign Star (French: "Étoile de campagne générale" ) is a campaign medal created in 2004 by the Canadian monarch-in-Council to recognize members of the Canadian Armed Forces who had directly participated in any military campaign under Canadian or allied command.
+It is, within the Canadian system of honours, the sixth highest of the war and operational service medals.
+
+"The 'Burbs"
+The 'Burbs is a 1989 American comedy thriller film directed by Joe Dante starring Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal and Henry Gibson.
+The film was written by Dana Olsen, who also has a cameo in the movie.
+The film pokes fun at suburban environments and their eccentric dwellers.
+
+"Bambi Hall"
+Samantha Hall (born July 14, 1992) better known by her ring name Bambi Hall is a Canadian female professional wrestler who debuted on June 18, 2011, and for All Star Wrestling (ASW), in June 2012 currently working for All Star Wrestling, and is the current Women's Champion.
+Hall also works for other Canadian independent promotions including Canadian National Wrestling Alliance (CNWA), Big West Wrestling (BWW), Beauty Slammers Wrestling (BSW), Canadian Wrestling's Elite (CWE), Wise Pro Wrestling (WPW), Elite Canadian Championship Wrestling (ECCW), Real Canadian Wrestling (RCW), Vancouver Island Pro Wrestling (VIPW), Pure Wrestling Association (PWA), Monster Pro Wrestling (MPW), Trash Wrestling, Pure Power Wrestling (PPW), Tony Condello Promotions (TCP), Gold Dragon Wrestling (GDW), and Midget Wrestling Warrirors (MWW), as well Hall has also competed in the United States in SHIMMER Women Athletes, West Coast Wrestling Connection (WCWC), and Vendetta Pro Wrestling (VPW), in Las Vegas, Nevada.
+
+"Royal Canadian Artillery Museum"
+The Royal Canadian Artillery Museum, Canada’s National Artillery Museum, is a museum dedicated to telling the complete story of the more than 200,000 Canadian Gunners who have served Canada in war and peace since 1855.
+The museum is Canada’s National Artillery Museum, a Manitoba Star Attraction and one of the largest military museums in Canada.The Royal Regiment of Canadian Artillery (RCA) has been a part of the fabric of Canadian history since the earliest days of our nation.
+In 1962, the RCA Museum was established at Canadian Forces Base Shilo in order to preserve and interpret this proud heritage for future generations.
+
+"Rick Ducommun"
+Richard "Rick" Ducommun (July 3, 1952 – June 12, 2015) was a Canadian actor, comedian and writer who appeared in films and television.
+
+"When You Can Fly"
+When You Can Fly is the second studio album by Canadian country music artist Victoria Banks and her first album with record label distribution, which earned Banks a 2010 Canadian Indie Award nomination and six nominations at the 2009 Canadian Country Music Awards including Album of the Year, Single of the Year ("The Wheel"), Songwriter of the Year ("The Wheel"), Female Artist of the Year and Rising Star.
+The album was self-produced by Banks, also earning her a nomination for Producer of the Year.
+It was released on April 14, 2009 by On Ramp Records/EMI Canada.
+The album's first single "The Wheel," earned a 2010 Canadian Radio Music Award nomination.
+Subsequent singles included "When You Can Fly," "Kiss Me, "This Old Halo" and "Don't Leave the Leavin'."
+Music videos for "The Wheel" and "When You Can Fly" received airplay on CMT Canada.
+
+"Love Can't Wait (Nick Carter song)"
+"Love Can't Wait" is a song by American singer-songwriter Nick Carter, released as the lead Canadian single from his second studio album, "I'm Taking Off".
+The single was released on June 21, 2011.
+The song only appears on the Canadian version of the album, and has not been released in any other territories.
+The music video for the song features Carter performing the song with the backdrop of a motorway system.
+The music video also featured Canadian pop star Shawn Desman, who co-wrote the song.
+The single peaked at #2 on the Canadian Singles Chart, based entirely on download sales.
+Carter ran a competition for amateur mixers to remix the track, with the winning remixer earning $1500 and their remix appearing on Carter's remix album, "I'm Taking Off: Relaunched and Remixed".
+
+"Super Star (S.H.E album)"
+Super Star is the fourth studio album by Taiwanese girl group S.H.E.
+It was released on 22 August 2003.
+Ella suffered a back injury during the shooting of a television show one month before the album was released.
+Because of this, Ella is absent from some of the music videos.
+As of 2006, the single "Super Star" from this album has been S.H.E's biggest hit.
+German producer Roberto "Geo" Rosan and vocalist Jade Villalon, as Sweetbox, composed "Super Star" for S.H.E during the sessions for Sweetbox's Adagio, and they also released their own English version as a single at the time.
+In 2004, Canadian singer Skye Sweetnam re-recorded "Super Star" as "Superstar".
+
+"Kenny Hotz"
+Kenneth Joel "Kenny" Hotz is a Canadian comedy writer, producer, director, actor and comedian.
+Hotz is a "South Park" consultant and writer, creator/star of the Comedy Central television show "Kenny vs. Spenny", creator and writer of the FX series "Testees", and the creator/star of "Kenny Hotz's Triumph of the Will".
+He has received numerous awards for his television work— from the Academy of Canadian Cinema & Television the Gemini Awards and the Canadian Comedy Awards—and is a multiple-time film festival award-winner.
+He is also an award-winning "Vice" contributor and Gulf war photo-journalist.
+
+"Carrie Fisher"
+Carrie Frances Fisher (October 21, 1956 – December 27, 2016) was an American actress, writer, and humorist.
+Fisher was known for playing Princess Leia in the "Star Wars" films; a role for which she was nominated for three Saturn Awards.
+Her other film roles included "Shampoo" (1975), "The Blues Brothers" (1980), "Hannah and Her Sisters" (1986), "The 'Burbs" (1989), "When Harry Met Sally..." (1989), "Soapdish" (1991) and "The Women" (2008 film).
+She was nominated twice for the Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series for her performances on the television series "30 Rock" and "Catastrophe".
+She was posthumously made a Disney Legend in 2017.
+
+question:
+What star if the Burbs was Canadian?
+
+
+answer(1):
+Richard "Rick" Ducommun
+supporting facts:
+The 'Burbs 0
+Rick Ducommun 0
+
+
+answer(2):
+Carrie Fisher
+supporting facts:
+The 'Burbs 0
+Rick Ducommun 0
+Carrie Fisher 0
+
+
+
+
+[3]
+
+
+context: 
+
+
+"La aventura de un fotógrafo en La Plata"
+La aventura de un fotógrafo en La Plata is an Argentine novel, written by Adolfo Bioy Casares.
+It was first published in 1985.
+In the prologue to the 2005 edition, the author admits that it is possible that the novel alludes, subconsciously, to the desaparecidos, stating, “I do not believe that one can have such a terrible nightmare and refrain from writing about it in the morning.”
+
+"The Book of Fantasy"
+The Book of Fantasy is the second English translation of "Antología de la Literatura Fantástica", an anthology of appromixately 81 fantastic short stories, fragments, excerpts, and poems edited by Jorge Luis Borges, Adolfo Bioy Casares, and Silvina Ocampo.
+It was first published in Argentina in 1940, and revised in 1965 and 1976.
+Anthony Kerrigan previously translated the similar work Cuentos Breves y Extraordinarios as "Extraordinary Tales," published by Herder & Herder in 1971.
+The 1988 Viking Penguin edition for English-speaking countries includes a foreword by Ursula K. Le Guin.
+
+"Hugo Santiago"
+Hugo Santiago was born Hugo Santiago Muchnick in 1939 in Buenos Aires, Argentina.
+He has lived in France since 1959.
+He studied Literature, Philosophy and Music.
+From 1959 to 1966 he was assistant director to Robert Bresson.
+In 1969 he made his first feature film "Invasión" in his native Argentina based on an idea by celebrated writers Adolfo Bioy Casares and Jorge Luis Borges, who also co-wrote the script.
+Adolfo Bioy Casares described the film in May 1969 as follows:
+
+"Morel's Invention (film)"
+Morel's Invention (Italian: "L'invenzione di Morel" ) is a 1974 Italian science fiction film directed by Emidio Greco and starring Anna Karina.
+It is based on the novel "The Invention of Morel" by Adolfo Bioy Casares.
+
+"James Norman Hall"
+James Norman Hall (22 April 1887 – 5 July 1951) was an American author best known for the novel "Mutiny on the Bounty" with co-author Charles Nordhoff.
+During World War I, Hall had the distinction of serving in the militaries of three Western allies: Great Britain as an infantryman and then flying for France and later the United States.
+
+"Victoria Ocampo"
+Victoria Ocampo {'1': ", '2': ", '3': ", '4': "} (7 April 189027 January 1979) was an Argentine writer and intellectual, described by Jorge Luis Borges as "La mujer más argentina" ("The quintessential Argentine woman").
+Best known as an advocate for others and as publisher of the legendary literary magazine "Sur", she was also a writer and critic in her own right and one of the most prominent South American women of her time.
+Her sister, Silvina Ocampo, also a writer, was married to Adolfo Bioy Casares.
+
+"The Hero of Women"
+The Hero of Women (Spanish: El héroe de las mujeres) is a book by Argentine writer Adolfo Bioy Casares published in 1978.
+It is a collection of short stories and includes a work with that same name.
+
+"In Memoriam (film)"
+In Memoriam is the 1977 Spanish directorial debut of Enrique Brasó.
+The film is based on a story by the Argentine writer, Adolfo Bioy Casares.
+The film explores the thwarted romance between Julio (José Luis Gómez) and Paulina (Geraldine Chaplin).
+Brasó collaborated with Chaplin again, as a writer in "In the City Without Limits" (2002) and "Oculto" (2005).
+"In Memoriam" was released in Spain on 2 September 1977.
+
+"Adolfo Bioy Casares"
+Adolfo Bioy Casares (] ; September 15, 1914 – March 8, 1999) was an Argentine fiction writer, journalist, and translator.
+He was a friend and frequent collaborator with his fellow countryman Jorge Luis Borges, and is the author of the fantastic fiction novel "The Invention of Morel".
+
+"The Invention of Morel"
+La invención de Morel (] ; 1940) — translated as The Invention of Morel or Morel's Invention — is a novel by Argentine writer Adolfo Bioy Casares.
+It was Bioy Casares' breakthrough effort, for which he won the 1941 First Municipal Prize for Literature of the City of Buenos Aires.
+He considered it the true beginning of his literary career, despite being his seventh book.
+The first edition cover artist was Norah Borges, sister of Bioy Casares' lifelong friend, Jorge Luis Borges.
+
+question:
+Are both Adolfo Bioy Casares and James Norman Hall Argentinian authors?
+
+
+answer(1):
+no
+supporting facts:
+James Norman Hall 0
+Adolfo Bioy Casares 0
+
+
+answer(2):
+yes
+supporting facts:
+James Norman Hall 0
+Adolfo Bioy Casares 0
+Adolfo Bioy Casares 1
+
+
+
+
+[4]
+
+
+context: 
+
+
+"Little Children (film)"
+Little Children is a 2006 American drama film directed by Todd Field.
+It is based on the novel of the same name by Tom Perrotta, who along with Field wrote the screenplay.
+It stars Kate Winslet, Patrick Wilson, Jennifer Connelly, Jackie Earle Haley, Noah Emmerich, Gregg Edelman, Phyllis Somerville and Will Lyman.
+The original music score is composed by Thomas Newman.
+The film screened at the 44th New York Film Festival organized by the Film Society of Lincoln Center.
+It earned 3 nominations at the 79th Academy Awards: Best Actress for Winslet, Best Supporting Actor for Haley, and Best Adapted Screenplay for Field and Perrotta.
+
+"Delivering (film)"
+Delivering is a 1993 short film that Todd Field, while a fellow at the AFI Conservatory, adapted from the story of the same name by Andre Dubus.
+It is a dramatic piece that takes place on the day two brothers discover their mother has abandoned the family.
+This film is notable as it was the first time Field adapted Dubus' work to film.
+The next time would be for his Academy Award nominated feature debut, "In the Bedroom", which was based on Dubus' short story, "Killings".
+Years after Field's graduation from the AFI, "Delivering" continued to be screened in the classroom.
+
+"In the Bedroom"
+In the Bedroom is a 2001 American crime drama film directed by Todd Field, and dedicated to Andre Dubus, whose short story "Killings" is the source material on which the screenplay, by Field and Robert Festinger, is based.
+The film stars Tom Wilkinson, Sissy Spacek, Nick Stahl, Marisa Tomei, and William Mapother.
+
+"Too Romantic"
+Too Romantic is a 1992 dramatic short film that Todd Field created while a fellow at the AFI Conservatory.
+It was his directorial debut.
+It is a dramatic piece about a fifteen-year-old boy taking a road trip with his recently widowed grandmother.
+The piece is notable in that it was Field's first project as a writer/director and his first introduction to many of the collaborators he continued to work with on subsequent projects, including his Academy Award nominated features "In the Bedroom" and "Little Children".
+
+"Wilco Melissant"
+Wilco Melissant (born December 8, 1968) is a Dutch director who directed various arthouse video productions for Witchhunt Productions, of which he himself is the chairman.
+His productions were shown on the Dutch TV station RotterdamTV.
+
+"When I Was a Boy (film)"
+When I Was a Boy is a 1993 short film created by Todd Field, Alex Vlacos and Matthew Modine.
+It is an experimental piece about a grown man reflecting on how he was reared by his mother and treated by others as a child.
+The piece premiered at the 1993 Sundance Film Festival in front of Victor Nuñez's Grand Jury Prize winning "Ruby in Paradise" in which Field starred and Vlacos was the cinematographer.
+That same year it was exhibited at the Museum of Modern Art as part of the Film Society of Lincoln Center's New Directors/New Films Festival.
+
+"Killings (short story)"
+Killings is a short tale written by Andre Dubus in 1979.
+The short story entails how a man seeks revenge after the death of his son in cold blood.
+In 2001, the story was adapted into Todd Field's film, "In the Bedroom".
+The film starred Sissy Spacek, Tom Wilkinson, and Marisa Tomei, and was nominated for five Academy Awards – Best Picture, Actor in a Leading Role (Wilkinson), Actress in a Leading Role (Spacek), Actress in a Supporting Role (Tomei), and Best Writing, Screenplay Based on Material Previously Published (Robert Festinger & Field).
+After the film's release the story was republished in a collection called "In the Bedroom" for which Field wrote the preface.
+
+"Todd Field"
+William Todd Field (born February 24, 1964) is an American actor and three-time Academy Award nominated filmmaker.
+
+"Broken Vessels"
+Broken Vessels is a 1999 medical drama film directed by Scott Ziehl and written by Ziehl along with David Baer and John McMahon.
+The film debuted at the Los Angeles Independent Film Festival and marked Ziehl's directorial debut.
+It stars Todd Field, Jason London, Roxana Zal, Susan Traylor, and James Hong.
+The film follows a rookie paramedic and his hardened drug-addicted partner as they take calls and cruise L.A. in their ambulance.
+Although it shares the same name as the book, it has nothing to do with the Andre Dubus essay collection of the same name.
+
+"Sunil Rawal"
+Sunil Rawal (born 23 May 1983) is a film producer and actor active in the Nepali film industry.
+He has been involved in the film industry since 2012.
+His first movie as a producer and actor was "Saayad", produced under the banner of Durgish Films Pvt. Ltd. and directed by Suraj Subba.
+He is Managing Director of Durgish Films Pvt. Ltd.
+Since his involvement in the industry, he has been the center point of attraction to both filmmaker and audience.
+His First movie Saayad in 2011 was the trend breaker.
+Rawal collected numerous award from that movie.
+Being a Member of Nepal Film Producer Association, He was awarded by Nepal Film Producer Association for the best product, Saayad.
+Then his dedication of filmmaking reached to another level, which helped him to produce another blockbuster movie HOSTEL, 2012, which was the heart of youth nepali audience.
+Hostel too got numbers of award including national award.
+After grand success of Hostel, Rawal came with another blockbuster movie Hostel Returns, Sequel of Hostel in 2015.
+Till the date Rawal is only the producer in Nepali Film Industry with No flops.
+Rawal is inspiration and role model to many youth who is willing to make their career in Nepali Film Industry.
+Sequel of his first Film Saayad, Saayad 2 is set to release on 14 July 2017.
+Beside Filmmaking, Rawal is busy on serving the society, in his initiation, library was established in Nirankari Aadarsha Bidhya Mandir, Kailali.
+He was one of the active filmmaker to serve earthquake victims in different part of Nepal.
+He has great contribution to flood victims of eastern and western Nepal.
+Getting Back to film Industry, His upcoming Projects, Laaure and Woolen Marry is running smoothly on Pre-production.
+
+question:
+Are Wilco Melissant and Todd Field both involved in the film industry (e.g. director, filmmaker, actor)?
+
+
+answer(1):
+yes
+supporting facts:
+In the Bedroom 1
+Wilco Melissant 0
+Todd Field 0
+Sunil Rawal 1
+
+
+answer(2):
+no
+supporting facts:
+Wilco Melissant 0
+Todd Field 0
+
+
+
+
+[5]
+
+
+context: 
+
+
+"Pinhead Gunpowder"
+Pinhead Gunpowder is an American punk rock band that formed in East Bay, California, in 1990.
+The band currently consists of Aaron Cometbus (drums, lyrics), Bill Schneider (bass), Billie Joe Armstrong (guitar, vocals) and Jason White (guitar, vocals).
+The band's name comes from a brand of "high octane" green tea served at the Arcata co-op and discovered by Aaron Cometbus during one of his many dumpster diving adventures.
+
+"Green Day related projects"
+Since 1991, some members of punk band Green Day have branched out past their "main band" and have started other projects with other musicians and have released full-length albums and several EPs.
+Notable related projects of Green Day include Billie Joe Armstrong's Pinhead Gunpowder (which also featured Green Day's other guitarist Jason White), The Frustrators in which Mike Dirnt plays bass, and The Network which many speculate has all three members of Green Day, although under stagenames.
+
+"Jason White (musician)"
+Jason White (born November 11, 1973) is an American musician, best known as the current touring guitarist for the American punk rock band Green Day.
+He has played as a touring member of Green Day since 1999.
+However, in 2012, he was promoted to being an official member of the band before demoting himself back to his touring guitarist role in 2016.
+He is also the guitarist/vocalist for the Californian punk band Pinhead Gunpowder, lead guitarist/lead vocalist for California, and co-founder of Adeline Records alongside Billie Joe Armstrong.
+
+"Carry the Banner"
+Carry the Banner is the third EP by the Berkeley, California-based punk rock band Pinhead Gunpowder.
+Originally released on 10" vinyl in December 1994 through Too Many Records, the EP was reissued on CD by Lookout Records shortly after as the initial vinyl pressing sold out quickly.
+It was the group's first release to feature Jason White on guitar/vocals, replacing Sarah Kirsch, who left the band in 1994 due to differences with Billie Joe Armstrong after his main band Green Day signed to major label Reprise Records.
+
+"Kick Over the Traces"
+Kick Over the Traces is a compilation album by the American punk rock band Pinhead Gunpowder.
+The album contains tracks from Pinhead Gunpowder releases since the band formed in 1990.
+The album was released through Recess Records on June 16, 2009.
+The Japanese edition features a second disc recorded live at 924 Gilman Street on February 10, 2008, and features different cover art.
+
+"Pinhead Gunpowder (2008 EP)"
+Pinhead Gunpowder (also known by fans as the West Side Highway EP) is the second eponymously titled extended play by the American punk rock band Pinhead Gunpowder.
+It was released on August 19, 2008, through Recess Records, the group's first release on Recess.
+"Pinhead Gunpowder" marked the band's first new release in over 5 years.
+The first pressings of the extended play were on green and blue vinyl.
+All of the tracks were rereleased on the 2009 compilation "Kick Over the Traces".
+
+"Bill Schneider (musician)"
+William 'Bill' Schneider (born June 17) is an American musician.
+He has played bass in the punk rock band Pinhead Gunpowder since 1990, as well as providing vocals and writing the lyrics to the song "Backyard Flames".
+He has also been in many other bands such as The Influents, Monsula and Uranium 9v, Sawhorse and The Skinflutes.
+Bill was worked as bass tech during the Nimrod era for Mike Dirnt, Green Day's and as guitar tech on their albums "Nimrod" and "Warning", American Idiot, 21st Century Breakdown, Uno Dos Tres, Revolution Radio and was their day to day manager from 2003-2012 for their "American Idiot" and 21st Century Breakdown tours through Uno Dos Tres.
+He also owned "Broken Guitars", a guitar shop in Oakland, California with Billie Joe Armstrong.
+Bill Still works on the sidelines with the band as well as in the studio.
+
+"Recess Records"
+Recess Records is an independent record label founded in 1989 with the release of F.Y.P's "Extra Credit", an 11 song 7-inch record.
+Label founder Todd Congelliere (frontman for F.Y.P and Toys That Kill) originally created the label as a vehicle to release F.Y.P's material.
+Congelliere promoted "Extra Credit" by running classified ads in Berkeley based Maximum Rocknroll fanzine and going to skateboard contests.
+He quickly sold his initial pressing of 500 copies.
+In between touring the U.S., Europe, and Japan, Congelliere began releasing records for fellow punk rock and DIY bands, eventually having a roster of close to 20 artists on his label.
+Pinhead Gunpowder, fronted by Green Day frontman Billie Joe Armstrong, announced in April 2008 that a new 7" single from the band would be released on Recess Records in late May 2008.
+
+"Compulsive Disclosure"
+Compulsive Disclosure is the second compilation album by the American punk rock band Pinhead Gunpowder.
+It was released on October 21, 2003, through Lookout!
+Records.
+The album features songs from the group's eponymously titled 2000 EP, the "Dillinger Four / Pinhead Gunpowder" split EP, the "8 Chords, 328 Words" EP and also features re-recorded versions of the songs "2nd Street" and "At Your Funeral" (originally from "Dillinger Four / Pinhead Gunpowder").
+"Compulsive Disclosure" was re-released on CD and vinyl through Recess Records on February 12, 2010, with two unreleased tracks, "Salting Agents" and "El Lasso Grappo".
+
+"Billie Joe Armstrong"
+Billie Joe Armstrong (born February 17, 1972) is an American musician, singer, songwriter and actor who is best known as the lead vocalist, primary songwriter, and guitarist of the punk rock band Green Day, which he co-founded with Mike Dirnt.
+He is also a guitarist and vocalist for the punk rock band Pinhead Gunpowder and provides lead vocals for Green Day's side projects Foxboro Hot Tubs and The Network.
+
+question:
+What kind of group does Pinhead Gunpowder and Billie Joe Armstrong have in common?
+
+
+answer(1):
+band
+supporting facts:
+Pinhead Gunpowder 0
+Billie Joe Armstrong 0
+
+
+answer(2):
+rock band
+supporting facts:
+Pinhead Gunpowder 0
+Billie Joe Armstrong 0
+
+
+
+

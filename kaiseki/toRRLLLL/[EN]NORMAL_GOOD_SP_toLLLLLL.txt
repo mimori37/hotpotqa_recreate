@@ -1,0 +1,384 @@
+[RRRRRR_to_LLLLLL_もともと得意な質問(SP)]
+
+[1]
+
+
+context: 
+
+
+"Jamie Brown (composer)"
+Jamie Brown (born 1980) is a British classical composer who studied with Judith Weir in London.
+He is also a professional linguist and has previously lived in Belo Horizonte, Brazil.
+Musically, he is predominantly interested in vocal music, particularly for the stage, and influences range from Judith Weir and Benjamin Britten to Björk, Sigur Rós and folk music from around the world.
+
+"Cuban Overture"
+Cuban Overture is a symphonic overture or tone poem for orchestra composed by American composer George Gershwin.
+Originally titled "Rumba", it was a result of a two-week holiday which Gershwin took in Havana, Cuba in February 1932.
+Gershwin composed the piece in July and August 1932.
+
+"Hershey Felder"
+Hershey Felder (born July 9, 1968) is a Canadian pianist, actor, playwright, composer, producer, and director.
+He created (as playwright, actor, and pianist) the role of American composer George Gershwin for the theatrical stage in the play "George Gershwin Alone", which was followed by the creation of the roles of Fryderyk Chopin, the Polish composer-pianist; Ludwig van Beethoven and Gerhard von Breuning in "Beethoven"; Leonard Bernstein in "Maestro Bernstein"; Franz Liszt in "Musik"; Irving Berlin in "Hershey Felder as Irving Berlin"; and Piotr Ilyich Tchaikovsky in "Our Great Tchaikovsky".
+"The Composer Sonata" comprises these works.
+
+"Oscar Peterson Plays the George Gershwin Songbook"
+Oscar Peterson Plays the George Gershwin Songbook is a 1959 album by pianist Oscar Peterson of compositions written by George Gershwin.
+Peterson had recorded many of the pieces for his 1952 album "Oscar Peterson Plays George Gershwin".
+
+"Armida (Weir)"
+Armida is an opera by British composer Judith Weir.
+It premiered on 25 December 2005 as a television broadcast on the UK station, Channel 4 which had commissioned the work.
+The English libretto, also written by Weir, is loosely based on the story of Rinaldo and Armida, in Torquato Tasso's 1581 epic poem set in the First Crusade, "La Gerusalemme liberata" ("Jerusalem Delivered").
+
+"Judith Weir"
+Judith Weir {'1': ", '2': ", '3': ", '4': "} (born 11 May 1954) is a British composer and Master of the Queen's Music.
+
+"A Night at the Chinese Opera"
+A Night at the Chinese Opera is an opera in three acts by Judith Weir, who also wrote the libretto.
+Aside from an earlier opera for children, this was Weir's first full-scale opera, written on commission from the BBC for performance by Kent Opera.
+Weir incorporated an early Chinese play of the Yuan dynasty, "The Orphan of Zhao", as the centrepiece of Act 2 of her opera.
+
+"Blond Eckbert"
+Blond Eckbert is an opera by Scottish composer Judith Weir.
+The composer wrote the English-language libretto herself, basing it on the cryptic supernatural short story "Der blonde Eckbert" by the German Romantic writer Ludwig Tieck.
+Weir completed the original two act version of the opera in 1993, making "Blond Eckbert" her third full-length work in the genre.
+Like its predecessors, it was received well by the critics.
+She later produced a one act "pocket" version of the work.
+This uses chamber forces rather than the full orchestra of the two act version and omits the chorus.
+The pocket version receives frequent performances, especially in Germany and Austria, while the full version is available in a recording featuring the original cast.
+
+"George Gershwin"
+George Jacob Gershwin ( ; September 26, 1898 July 11, 1937) was an American composer and pianist.
+Gershwin's compositions spanned both popular and classical genres, and his most popular melodies are widely known.
+Among his best-known works are the orchestral compositions "Rhapsody in Blue" (1924) and "An American in Paris" (1928) as well as the opera "Porgy and Bess" (1935).
+
+"Oscar Peterson Plays George Gershwin"
+Oscar Peterson Plays George Gershwin is a 1952 album by pianist Oscar Peterson of popular songs written by George Gershwin and Ira Gershwin.
+Several tracks were included on the 1959 album "Oscar Peterson Plays the George Gershwin Songbook".
+
+question:
+George Gershwin is an American Composer and Judith Weir is a composer from which country?
+
+
+answer(1):
+Brazil
+supporting facts:
+Judith Weir 0
+George Gershwin 0
+
+
+answer(2):
+Polish
+supporting facts:
+Judith Weir 0
+George Gershwin 0
+
+
+
+
+[2]
+
+
+context: 
+
+
+"Roger Donaldson"
+Roger Donaldson (born 15 November 1945) is an Australian-born New Zealand film director, producer and writer whose films include "The World's Fastest Indian" (2005), acclaimed 1981 relationship drama "Smash Palace", and a run of titles shot in the United States, including the Kevin Costner films "No Way Out" (1987) and "Thirteen Days" (2000), and the 1997 disaster film "Dante's Peak".
+
+"Before the Deluge"
+Before the Deluge (French: Avant le déluge ) is a 1954 French drama film directed by André Cayatte.
+It was entered into the 1954 Cannes Film Festival.
+
+"Black Dossier (film)"
+Black Dossier (French: "Le Dossier noir" ) is a 1955 French drama film directed by André Cayatte.
+It was entered into the 1955 Cannes Film Festival.
+
+"André Cayatte"
+André Cayatte (3 February 1909, Carcassonne – 6 February 1989, Paris) was a French filmmaker and lawyer, who became known for his films centering on themes of crime, justice, and moral responsibility.
+
+"Le glaive et la balance"
+Le glaive et la balance (English: The Sword and the Balance and Two Are Guilty)) is a 1963 French-Italian drama film directed by André Cayatte.
+It was written by Cayatte, Henri Jeanson and Charles Spaak.
+It stars the American actor, Anthony Perkins as the protagonist.
+
+"We Are All Murderers"
+We Are All Murderers (French: "Nous sommes tous des assassins" , also known as "Are We All Murderers?")
+is a 1952 French film written and directed by André Cayatte, a former attorney.
+It tells the story of René, a young man from the slums, trained by the French Resistance in World War II to kill Germans.
+He continues to kill long after the war has ended, as it is all he knows.
+
+"The Revenge of Roger"
+The Revenge of Roger (French: La revanche de Roger la Honte) is a 1946 French historical crime film directed by André Cayatte and starring Lucien Coëdel, María Casares and Paul Bernard.
+The film is based on a novel by Jules Mary.
+It was a sequel to the film "Roger la Honte" also directed by Cayatte which had been shot in 1945 but was released in 1946.
+The film's sets were designed by the art director Jacques Colombier.
+
+"Stormy Waters (film)"
+Remorques (English title: Stormy Waters) is a 1941 French drama film directed by Jean Grémillon.
+The screenplay was written by Jacques Prévert (scenario and dialogue) and André Cayatte (adaptation), based on the novel by Roger Vercel.
+The film stars Jean Gabin, Madeleine Renaud and Michèle Morgan.
+
+"Return to Life"
+Return to Life (French: "Retour à la vie" ) is a 1949 French drama film directed by Georges Lampin, André Cayatte, Henri-Georges Clouzot and Jean Dréville.
+It was entered into the 1949 Cannes Film Festival.
+
+"Roger la Honte (1946 film)"
+Roger la Honte is a 1946 French historical drama film directed by André Cayatte and starring Lucien Coëdel, María Casares and Paul Bernard.
+The film is an adaptation of the novel of the same name by Jules Mary.
+It was followed by a sequel "The Revenge of Roger" featuring many of the original cast and released the same year.
+
+question:
+Were both Roger Donaldson and André Cayatte french filmmakers?
+
+
+answer(1):
+no
+supporting facts:
+Roger Donaldson 0
+André Cayatte 0
+
+
+answer(2):
+yes
+supporting facts:
+Roger Donaldson 0
+André Cayatte 0
+
+
+
+
+[3]
+
+
+context: 
+
+
+"Control Room (film)"
+Control Room is a 2004 documentary film about Al Jazeera and its relations with the US Central Command (CENTCOM), as well as the other news organizations that covered the 2003 invasion of Iraq.
+Made by Egyptian-American filmmaker Jehane Noujaim, the film was distributed by Magnolia Pictures (owned by 2929 Entertainment).
+
+"Talkback (recording)"
+In sound recording, talkback refers to the intercom system used in recording studios and production control rooms (PCR) in television studios to enable personnel to communicate with people in the recording area or booth.
+While the control room can hear the person in the booth over the studio microphones, the person in the booth hears the control room over a PA, monitor speaker, in their headphones or Interruptible feedback (IFB) earpiece.
+Take numbers, reference data, and sometimes count-ins or remarks are also "stamped" onto recordings through talkback, similar to a clapperboard.
+
+"Cargo control room"
+The cargo control room, CCR, or cargo office of a tankship is where the person in charge (PIC) can monitor and control the loading and unloading of the ship's liquid cargo.
+Prevalent on automated vessels, the CCR may be in its own room, or located on the ship's bridge.
+Among other things, the equipment in the CCR may allow the person in charge to control cargo and stripping pumps, control and monitor valve positions, and monitor cargo tank liquid levels.
+
+"Control room"
+A control room, operations center, or operations control center (OCC) is a room serving as a central space where a large physical facility or physically dispersed service can be monitored and controlled.
+A control room will often be part of a larger command center.
+
+"Production control"
+Production control is the activity of monitoring and controlling any particular production or operation.
+Production control is often run from a specific control room or operations room.
+With inventory control and quality control, production control is one of the key functions of operations management.
+
+"Master control"
+Master control is the technical hub of a broadcast operation common among most over-the-air television stations and television networks.
+It is distinct from a production control room (PCR) in television studios where the activities such as switching from camera to camera are coordinated.
+It is also vastly different from the studio where the talent are located.
+A transmission control room (TCR) is usually smaller in size and is a scaled down version of centralcasting.
+
+"Distributed control system"
+A distributed control system (DCS) is a computerised control system for a process or plant usually with a large number of control loops, in which autonomous controllers are distributed throughout the system, but there is central operator supervisory control.
+This is in contrast to non-distributed control systems that use centralised controllers; either discrete controllers located at a central control room or within a central computer.
+The DCS concept increases reliability and reduces installation costs by localising control functions near the process plant, with remote monitoring and supervision.
+
+"Production control room"
+The production control room or studio control room (SCR) is the place in a television studio in which the composition of the outgoing program takes place.
+An SCR is also often the acronym for the Satellite Control Room, from here TV feeds are sent to & received from the local Satellite used by the TV station
+
+"Transmission control room"
+Transmission control room (TCR) or ' transmission suite' , or ' Tx room' , or "presentation" is a room at broadcast facilities and television stations around the world.
+Compared to a Master Control Room, it is usually smaller in size and is a scaled-down version of centralcasting.
+The TX Room or Presentation suite are staffed 24x7 by Presentation Coordinators and Tape Operators and is fitted out with video play out systems often using server based broadcast automation.
+
+"Meeting Resistance"
+Meeting Resistance is a 2007 documentary film about the Iraq War.
+The film presents the views of eleven Iraqi resistance fighters in the Adhamiyah neighborhood of Baghdad.
+The film was directed by journalists Molly Bingham (United States) and Steve Connors (UK).
+
+question:
+Are Control Room and Meeting Resistance both documentary films that involve Iraq?
+
+
+answer(1):
+yes
+supporting facts:
+Control Room (film) 0
+Meeting Resistance 0
+
+
+answer(2):
+yes
+supporting facts:
+Control Room (film) 0
+Meeting Resistance 0
+
+
+
+
+[4]
+
+
+context: 
+
+
+"J. Searle Dawley"
+James Searle Dawley (May 13, 1877 – March 30, 1949) was an American director and screenwriter.
+He directed 149 films between 1907 and 1926.
+He was born in Del Norte, Colorado and died in Hollywood, California.
+
+"Bab's Matinee Idol"
+Bab's Matinee Idol is a 1917 American silent romantic comedy film, based on the Mary Roberts Rinehart novels, produced by Famous Players-Lasky, and directed by J. Searle Dawley.
+This was the final film in the trilogy of "Babs" films that starred Marguerite Clark.
+
+"Ken Annakin"
+Kenneth Cooper "Ken" Annakin, OBE (10 August 1914 – 22 April 2009) was a prolific English film director.
+
+"The Death Dance (film)"
+The Death Dance is a 1918 American film directed by J. Searle Dawley with Alice Brady as Flora Farnsworth, Holmes Herbert as Arnold Maitland, Mahlon Hamilton as Philip Standish.
+
+"On the Broad Stairway"
+On The Broad Stairway, from Edison Studios, was a 1913 American silent film written and directed by J. Searle Dawley.
+The film was the second of three “Kate Kirby's Cases" detective tales produced in 1913 before Dawley and actress Laura Sawyer left Edison to continue the series later that year with the Famous Players Film Company.
+"On The Broad Stairway" was released in the United States on July 19, 1913.
+
+"Bab's Burglar"
+Bab's Burglar was a 1917 American silent romantic comedy film directed by J. Searle Dawley and distributed by Paramount Pictures.
+The film followed "Bab's Diary", released on October 17, 1917, and was the second in the trilogy of "Babs" films that starred Marguerite Clark.
+
+"The Diamond Crown"
+The Diamond Crown, from Edison Studios, was a 1913 American silent film (short) written and directed by J. Searle Dawley.
+It was the first of three “Kate Kirby's Cases" detective stories made in 1913 for Edison.
+Dawley and actress Laura Sawyer left Edison for Famous Players Film Co. later that year.
+This film was also Justina Huff's debut in motion pictures.
+"The Diamond Crown" was released in the United States on July 12, 1913.
+This film is considered “lost.”
+
+"Caprice (1913 film)"
+Caprice is a 1913 silent film produced by Daniel Frohman and Adolph Zukor released by Famous Players Film Company and starring Mary Pickford.
+J. Searle Dawley directed.
+Though Zukor helped finance the film it was distributed on a 'State's Rights' arrangement primarily since no Paramount Pictures had yet to exist.
+The story of this film had been acted on the stage by a young Minnie Maddern Fiske in the 1880s, one of her earliest successes as an adult actress.
+The same story gives Pickford the chance to arise to the height of a fine actress instead of just merely a popular performer.
+This film is lost.
+
+"Bab's Diary"
+Bab's Diary is a 1917 American silent romantic comedy film directed by J. Searle Dawley, and starring Marguerite Clark.
+The film's scenario was written by Martha D. Foster, based on the screen story "Her Diary" by Mary Roberts Rinehart.
+This was the first in a trilogy of "Babs" films all starring Clark.
+
+"A Woman's Triumph"
+A Woman's Triumph is a lost 1914 silent film drama directed by J. Searle Dawley and starring Laura Sawyer.
+It was produced by Daniel Frohman and Adolph Zukor and based on an 1818 story "The Heart of Midlothian" by Sir Walter Scott.
+
+question:
+J. Searle Dawley and Ken Annakin were both directors of what?
+
+
+answer(1):
+screenwriter
+supporting facts:
+J. Searle Dawley 0
+Ken Annakin 0
+
+
+answer(2):
+film director
+supporting facts:
+J. Searle Dawley 0
+Ken Annakin 0
+
+
+
+
+[5]
+
+
+context: 
+
+
+"Wilmington International Airport"
+Wilmington International Airport (IATA: ILM, ICAO: KILM, FAA LID: ILM) is a public airport located just north of Wilmington, North Carolina, in unincorporated Wrightsboro, Cape Fear Township, New Hanover County.
+
+"Susquehanna Area Regional Airport Authority"
+The Susquehanna Area Regional Airport Authority (SARAA) is the governing authority of Harrisburg International Airport, Capital City Airport, Franklin County Regional Airport and Gettysburg Regional Airport in south-central Pennsylvania.
+SARAA was incorporated on September 9, 1997, and officially took over control of HIA and CXY airports from the Commonwealth of Pennsylvania on January 1, 1998.
+
+"Ta'if Regional Airport"
+Ta'if Regional Airport (IATA: TIF, ICAO: OETF) is an airport in Ta'if, Saudi Arabia.
+Despite its name, it also offers many international flights as well.
+The airport is located 30 km to the east of Taif and 70 km from Mecca.
+The airport is considered important in Saudi aviation history as it witnessed the first landing of Ibn Saud's plane, founder of the Kingdom.
+It was converted to a regional airport in 2009 when GACA allowed international airlines to operate at the airport as the city's population was increasing and to reduce pressure on the three main airports at the time.
+Despite being named as a "Regional" airport, the airport actually has international flights destinations in half a dozen countries outside of Saudi Arabia.
+
+"Raleigh Executive Jetport"
+Raleigh Exec: The Raleigh Executive Jetport @ Sanford-Lee County or Raleigh Exec Jetport at Sanford-Lee CountyFAA Airport Master Record for TTA (Form 5010 ) (ICAO: KTTA, FAA LID: TTA) is a public use airport located seven nautical miles (8 mi, 13 km) northeast of the central business district of Sanford, a city in Lee County, North Carolina, United States.
+It is owned by the Sanford-Lee County Regional Airport Authority and was previously known as Sanford-Lee County Regional Airport.
+This airport is included in the National Plan of Integrated Airport Systems for 2011–2015, which categorized it as a "reliever airport" for Raleigh-Durham International Airport.
+
+"GoJet Airlines"
+GoJet Airlines LLC is a company headquartered in Bridgeton, Missouri, United States.
+Wholly owned by Trans States Holdings, it has 1670 employees.
+It operates commuter feeder services under the United Express and Delta Connection names.
+Go Jet Airlines has crew bases at Lambert-Saint Louis International Airport, O'Hare International Airport, Denver International Airport, and Raleigh-Durham International Airport.
+Flights are currently operated out of United's hubs at O'Hare International Airport and Denver International Airport, as well as Lambert-Saint Louis International Airport.
+GoJet's Delta Connection flights currently operate out of Lambert-Saint Louis International Airport , Detroit Metropolitan Airport and Raleigh-Durham International Airport.
+Its call sign "Lindbergh" is named after aviation pioneer Charles Lindbergh, who flew the "Spirit of St. Louis" solo across the Atlantic Ocean in 1927, the first person to do so.
+
+"Texarkana Regional Airport"
+Texarkana Regional Airport (IATA: TXK, ICAO: KTXK, FAA LID: TXK) , also known as Webb Field, is a public use airport located three nautical miles (6 km) northeast of the central business district of Texarkana, a city in Miller County, Arkansas, United States.
+It is owned by the Texarkana Airport Authority.
+The airport is located within the city limits of Texarkana, roughly 3 miles east of State Line Avenue.
+The front gate opens to the northwest, at the intersection of Arkansas Boulevard and U.S. Route 67.
+A Union Pacific Railroad line runs parallel to US 67 on the side of the highway facing the airport.
+It is mostly used for general aviation, but is also served by American Eagle.
+
+"Pensacola International Airport"
+Pensacola International Airport (IATA: PNS, ICAO: KPNS, FAA LID: PNS) , formerly Pensacola Gulf Coast Regional Airport and Pensacola Regional Airport (Hagler Field), is a public use airport three nautical miles (6 km) northeast of the central business district of Pensacola, in Escambia County, Florida, United States.
+It is owned by the City of Pensacola.
+Despite the name, this airport does not offer direct international flights.
+This airport is one of the five major airports in North Florida, others being: Northwest Florida Beaches International Airport, Destin-Fort Walton Beach Airport Tallahassee International Airport, and Jacksonville International Airport.
+
+"Air Wisconsin"
+Air Wisconsin Airlines is a regional airline based at Appleton International Airport in the town of Greenville, Wisconsin, United States, near Appleton.
+Air Wisconsin is the largest privately held regional airline in the United States.
+It currently operates regional jet flights as American Eagle under contract to American Airlines via a code sharing agreement, serving cities in the U.S. and Canada with hubs at Boston Logan International Airport (BOS), Charlotte Douglas International Airport (CLT), Philadelphia International Airport (PHL) and Ronald Reagan Washington National Airport (DCA) .
+Air Wisconsin previously operated United Express service on behalf of United Airlines followed by US Airways Express service on behalf of US Airways prior to becoming an American Eagle regional air carrier.
+The company has announced it will once again partner with United Airlines as a United Express code sharing air carrier with primary hubs to be located at Chicago O'Hare International Airport (ORD) and Washington Dulles International Airport (IAD) beginning in September 2017 and will be "exclusively operating" as United Express by March 2018.
+
+"Wilmington Airport (Delaware)"
+Wilmington Airport (IATA: ILG) (also known as Wilmington/Philadelphia Regional Airport, New Castle County Airport, or New Castle Airport) is an airport located in unincorporated New Castle County, Delaware near Wilmington, Delaware.
+Owned by the Delaware River and Bay Authority, it is five miles (8 km) south of Wilmington and about 30 miles (50 km) from Philadelphia.
+It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2017–2021, in which it is categorized as a non-hub primary commercial service facility.
+
+"John Glenn Columbus International Airport"
+John Glenn Columbus International Airport (IATA: CMH, ICAO: KCMH, FAA LID: CMH) , is an international airport located 6 mi east of downtown Columbus, Ohio.
+Formerly known as Port Columbus International Airport, it is managed by the Columbus Regional Airport Authority, which also oversees operations at Rickenbacker International Airport and Bolton Field.
+The airport code 'CMH' stands for "Columbus Municipal Hangar," the original name for the airport.
+
+question:
+Which airport is closer to the Atlantic ocean: Wilmington International Airport, or Texarkana Regional Airport?
+
+
+answer(1):
+Texarkana Regional Airport
+supporting facts:
+Wilmington International Airport 0
+Texarkana Regional Airport 0
+
+
+answer(2):
+Texarkana Regional Airport
+supporting facts:
+Wilmington International Airport 0
+Texarkana Regional Airport 0
+
+
+
+

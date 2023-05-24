@@ -1,0 +1,535 @@
+[RRRRRR_to_LLLLLL_もともと苦手な質問(SP)]
+
+[1]
+
+
+context: 
+
+
+"Hip Hop Since 1978"
+Hip Hop Since 1978 (HHS78) was a management and production company based in New York City.
+It was started by Gee Roberson and Kyambo "Hip-Hop" Joshua.
+HHS78 has been involved in the daily operations of Roc-A-Fella Records since the label's inception in the early '90s.
+HHS78 originally signed Kanye West to their production and management company in 1998, and negotiated his signing to Roc-A-Fella Records.
+Hip Hop Since 1978's first official project was West's 2004 album, "The College Dropout".
+In January 2007, they partnered with Bryant Entertainment.
+As a result, they managed the careers of Lil Wayne, Drake and Nicki Minaj (who were signed to Young Money/Cash Money Records).
+In January 2009, Kyambo Joshua and Columbia Records parted ways.
+Most recently, HHS78 has signed Young Jeezy onto their management firm.
+As of 2014, the agency no longer exists.
+That same year, Kyambo Joshua joined the A&R department at Def Jam Recordings (along with record producer No I.D.), while Gee Roberson has launched two of his own management agencies, The Blueprint Group and Maverick Management.
+
+"Graduation (album)"
+Graduation is the third studio album by American rapper Kanye West.
+It was released on September 11, 2007, through Roc-A-Fella Records.
+Recording sessions for the album took place during 2005 to 2007 at Chung King Studios, Sony Music Studios in New York City, at Chalice Studios and The Record Plant in Los Angeles.
+It was primarily produced by West himself, with contributions from DJ Toomp, as well as Mike Dean, Nottz, Brian "All Day" Miller, Eric Hudson, Warryn Campbell, Gee Roberson, Plain Pat and Jon Brion.
+It features guest contributions from artists, including Mos Def, Dwele, T-Pain, Lil Wayne, DJ Premier and Chris Martin of Coldplay.
+The album's cover artwork was designed by Japanese contemporary artist Takashi Murakami.
+
+"The College Dropout"
+The College Dropout is the debut studio album by American rapper Kanye West.
+It was released on February 10, 2004, through Roc-A-Fella Records.
+It was recorded over a period of four years, beginning in 1999.
+Prior to the album's release, West had received praise for his production work for artists such as Jay-Z and Talib Kweli, but faced difficulty being accepted as a recording artist in his own right by figures in the music industry.
+Nonetheless intent on pursuing a solo career, it was several years before West finally received a record deal from Roc-A-Fella Records.
+
+"My Beautiful Dark Twisted Fantasy"
+My Beautiful Dark Twisted Fantasy is the fifth studio album by American rapper Kanye West, released, November 22, 2010, by Roc-A-Fella Records.
+Following a period of public and legal controversy, West retreated to a "self-imposed exile" in Hawaii in 2009.
+There, he worked on the album in a communal recording environment that involved numerous contributing musicians and producers.
+The album features guest appearances from Bon Iver, Jay-Z, Pusha T, Rick Ross, Kid Cudi, Nicki Minaj, John Legend and more.
+
+"PRhyme"
+PRhyme is the debut studio album by American hip hop duo PRhyme, consisting of Royce da 5'9" and DJ Premier.
+The album was released on December 9, 2014, through their own record label PRhyme Records.
+The album features guest appearances from rappers Killer Mike, Jay Electronica, Common, Ab-Soul, Schoolboy Q, Slaughterhouse, Mac Miller and soul singer Dwele.
+"PRhyme" features production by DJ Premier, as well as samples from psychedelic soul composer and producer Adrian Younge.
+The album was supported by the single "Courtesy".
+
+"Late Registration"
+Late Registration is the second studio album by American rapper Kanye West.
+It was released on August 30, 2005, through Roc-A-Fella Records.
+It was recorded over the course of a year in sessions held across studios in New York City and Hollywood, with West collaborating with American record producer and composer Jon Brion.
+The album features guest contributions from Adam Levine, Lupe Fiasco, Jamie Foxx, Common, Jay-Z, Brandy, and Nas, among others.
+Its production was notably more lush and elaborate than West's 2004 debut album "The College Dropout", as he utilized intricate sampling methods and string orchestration with Brion.
+West's lyrics explore both personal and political themes, including poverty, drug trafficking, racism, healthcare, and the blood diamond trade.
+
+"The People (Common song)"
+"The People" is a song by American rapper Common, released as the second single of his seventh studio album "Finding Forever".
+It made its first appearance on Kanye West's "Can't Tell Me Nothing" mixtape.
+The song features production by West and contains background vocals provided by soul singer Dwele.
+The original version of the song had Common singing the hook by himself, but this was later replaced with Dwele singing the hook.
+It contains samples of "We Almost Lost Detroit" by Gil Scott-Heron as well as vocal samples of "Long Red" by Mountain (the latter of which was sampled on Wouldn't Get Far featuring West).
+This action was part of West's intention to pay tribute to J Dilla through the production style expressed within the album.
+
+"Watch the Throne"
+Watch the Throne is a collaborative studio album by American rappers Jay-Z and Kanye West, released on August 8, 2011, by Roc-A-Fella Records, Roc Nation, and Def Jam Recordings.
+Before the album, Jay-Z and West had collaborated on their respective singles and with West as a producer on Jay-Z's work.
+As longtime friends, they originally sought out to record a five-song EP together, but the project eventually evolved into a full-length album.
+Recording sessions took place at various locations and began in November 2010.
+Production on the album was led by West himself, alongside a variety of high-profile record producers including Mike Dean, Swizz Beatz, Sak Pase, Jeff Bhasker, The Neptunes and Q-Tip.
+
+"Flashing Lights (Kanye West song)"
+"Flashing Lights" is a song by American hip-hop artist Kanye West.
+It features Detroit R&B singer Dwele and contains background vocals from Australian singer Connie Mitchell.
+West co-wrote and co-produced the song with Eric Hudson and released it on November 22, 2007 as the fourth single for his third studio album, "Graduation".
+The single's cover art was designed by Japanese pop artist, Takashi Murakami.
+The single received acclaim from music critics and is cited as one of the best songs on "Graduation".
+
+"Power (Kanye West song)"
+"Power" (often stylized as "POWER") is a song by American hip hop recording artist Kanye West, released as the lead single from his fifth studio album, "My Beautiful Dark Twisted Fantasy" (2010).
+The song features additional vocals by soul singer Dwele and is co-produced by West and Symbolyc One.
+It is built around samples of "21st Century Schizoid Man" by King Crimson, "Afromerica" by Continent Number 6, and "It's Your Thing" by Cold Grits.
+After having recorded it in Hawaii, West reported that he spent 5000 hours composing "Power".
+In its lyrics, West comments about the United States and his critics.
+Its chorus features an abrasive vocal-riff.
+
+question:
+What studio album did Kanye West record with Roc-A-Fella Records and soul singer Dwele?
+
+
+answer(1):
+Graduation
+supporting facts:
+Graduation (album) 0
+The College Dropout 0
+My Beautiful Dark Twisted Fantasy 0
+Watch the Throne 0
+Power (Kanye West song) 0
+
+
+answer(2):
+My Beautiful Dark Twisted Fantasy
+supporting facts:
+My Beautiful Dark Twisted Fantasy 0
+
+
+answer(true):
+My Beautiful Dark Twisted Fantasy
+supporting facts:
+Power (Kanye West song) 1
+My Beautiful Dark Twisted Fantasy 0
+
+
+
+
+[2]
+
+
+context: 
+
+
+"Garfield Gets Real"
+Garfield Gets Real (also known as Garfield 3D in some regions) is a 2007 American CGI movie starring Garfield.
+It was produced by Paws, Inc. in cooperation with Davis Entertainment, and The Animation Picture Company and distributed by 20th Century Fox Home Entertainment.
+It was written by Garfield's creator Jim Davis, who started working on the script in the fall of 1996.
+This was the first fully animated Garfield film since the last "Garfield and Friends" TV episode aired in 1995, and the first to be written by Davis since the 1991 television special "Garfield Gets a Life".
+The movie was released in theaters August 9, 2007, and the DVD was shipped to stores on November 20, 2007.
+Gregg Berger, an actor from the original series, reprises his role of Odie, but Garfield is now voiced by veteran voice actor Frank Welker, since the original actor Lorenzo Music died in 2001 and Jon is voiced by Wally Wingert, as Thom Huge retired that same year.
+The film's success led to two sequels: "Garfield's Fun Fest" (2008) and "Garfield's Pet Force" (2009).
+
+"Shashaa Tirupati"
+Shashaa Tirupati is a playback singer, songwriter and voice over artist of Indo-Canadian origin, with family roots in Kashmir, predominantly active in the Bollywood and South Indian music industries.
+She is the voice behind Bollywood hits such as: "The Humma Song" (OK Jaanu), "Phir Bhi Tumko Chahunga" (with Arijit Singh) (Half Girlfriend), "Baarish" (Half Girlfriend), "Kanha" (Shubh Mangal Saavdhan), "O Sona Tere Liye" (with A.R. Rahman) and "Chal Kahin Door", both from the Sridevi starrer MOM.
+
+"Eleventh Mom"
+Eleventh Mom (; also known as My 11th Mother) is a 2007 South Korean film starring Kim Hye-soo, Kim Young-chan and Ryu Seung-ryong.
+It was released on November 29, 2007 and attracted 350,204 admissions.
+
+"Mom (film)"
+Mom is a 2017 Indian thriller film directed by Ravi Udyawar.
+Produced by Boney Kapoor, Sunil Manchanda, Mukesh Talreja, Naresh Agarwal and Gautam Jain, the film stars Sridevi, as a vigilante, who sets out to avenge her daughter, played by Sajal Ali.
+Adnan Siddiqui.
+Akshaye Khanna and Nawazuddin Siddiqui play supporting roles in the film.
+Music for the film has been produced by A. R. Rahman.
+The film was released on 7 July 2017, in four languages, and received positive reviews from film critics.
+It was successful commercially as well.
+"Mom" marked Sridevi's 300th film appearance.
+
+"Chinatown Nights (1929 film)"
+Chinatown Nights, also known as Tong War, is a 1929 film starring Wallace Beery and begun as a silent film then finished as an all-talking sound one via dubbing.
+Directed by William A. Wellman and released by Paramount Pictures, "Chinatown Nights" also stars Florence Vidor, former wife of director King Vidor, who did not dub her own voice and quit the movie business immediately afterward, preferring not to work in sound films; her voice in "Chinatown Nights" was supplied by actress Nella Walker.
+The supporting cast includes Warner Oland as a Chinese gangster and Jack Oakie as a stuttering reporter.
+The movie was based upon the story "Tong War" by Samuel Ornitz.
+
+"Gidget Goes to Rome"
+Gidget Goes to Rome is a 1963 Columbia Pictures Eastmancolor feature film starring Cindy Carol as the archetypal high school teen surfer girl originally created by Sandra Dee in the 1959 film "Gidget".
+The film is the third of three Gidget films directed by Paul Wendkos and expands upon Gidget's romance with boyfriend Moondoggie.
+The screenplay was written by Ruth Brooks Flippen based on characters created by Frederick Kohner.
+Veterans of previous Gidget films making appearances include James Darren as "Moondoggie", Joby Baker, and Jean "Jeff" Donnell as Gidget's mom, Mrs. Lawrence.
+The film has been released to VHS and DVD.
+
+"Phir Bhi Tumko Chaahunga"
+"Phir Bhi Tumko Chaahunga" (English: "I will still love you") is a song from the Indian film "Half Girlfriend".
+Picturised on Shraddha Kapoor and Arjun Kapoor, the song has been sung by Arijit Singh and Shashaa Tirupati.
+The music of the song is composed by Mithoon and the lyrics are penned by Manoj Muntashir.
+Reprise version of the track is sung by Arijit Singh titled, "Pal Bhar (Chaahunga Reprise)", and also another version titled, "Phir Bhi Tumko Chaahungi" is sung by Shraddha Kapoor along with the instrumental "Half Girlfriend (Love Theme)".
+
+"Christian Bale filmography"
+British actor Christian Bale has starred in various films, as well as advertisements and a video game.
+He made his acting debut in 1986, on the television film "".
+The following year, he made his film debut starring alongside John Malkovich and Miranda Richardson in the war film "Empire of the Sun".
+Bale's role of a young boy, interned in China by the Japanese, received praise from most film critics.
+Two years later, Bale had a minor role in "Henry V", a drama film based on William Shakespeare's play "The Life of Henry the Fifth".
+It has been considered one of the best Shakespeare film adaptations ever made.
+In 1992, Bale starred as Jack Kelly in the Walt Disney musical drama "Newsies", which was a critical and commercial failure; however, it gained a cult following.
+He received a role in the 1994 drama "Little Women", which garnered positive reviews.
+Bale lent his voice for the Disney animated film "Pocahontas" in 1995, although it received a mixed reception and attained box office success.
+He starred as British journalist Arthur Stuart in the Todd Haynes-directed drama "Velvet Goldmine" (1998).
+Although critics were divided on the film, Bale's role was "eagerly anticipated".
+Bale portrayed Demetrius in the critically praised 1999 film "A Midsummer Night's Dream", an adaptation of Shakespeare's play of the same name, directed by Michael Hoffman.
+The same year, he portrayed Jesus of Nazareth in the television movie "Mary, Mother of Jesus".
+
+"Trading Mom"
+Trading Mom, also known as The Mommy Market, is a 1994 American fantasy/comedy film written and directed by Tia Brelis, based on her mother Nancy Brelis' homonymous book.
+It stars Sissy Spacek and Anna Chlumsky, and features the final acting role of André the Giant, who died a year before it was released.
+
+"Valentina (2008 film)"
+Valentina is a 2008 Argentinian traditionally animated romantic-comedy film released in theaters throughout Argentina, Mexico, and Uruguay on July 24, 2008.
+It also had a limited release in the United States later that year.
+It did very poorly at the foreign and international box-office, resulting a box-office bomb.
+It stars Florencia Otero, as the voice of Valentina, and Sebastián Francini, as the voice of Fede.
+It is also Illusion Studios' first feature film.
+
+question:
+What year was the film "Mom" released, starring the voice of Shashaa Tirupati?
+
+
+answer(1):
+2017
+supporting facts:
+Eleventh Mom 0
+Mom (film) 0
+Mom (film) 7
+
+
+answer(2):
+2007
+supporting facts:
+Eleventh Mom 1
+Mom (film) 0
+Mom (film) 7
+
+
+answer(true):
+2017
+supporting facts:
+Shashaa Tirupati 0
+Mom (film) 0
+
+
+
+
+[3]
+
+
+context: 
+
+
+"The Miami Showband"
+The Miami Showband were one of the most successful and popular showbands in Ireland in the 1960s and 1970s.
+Led at first by singer Dickie Rock, and later by Fran O'Toole, they had seven number one records on the Irish singles chart.
+In 1975 during The Troubles, when returning from a performance in County Down, Northern Ireland, three members of the band, Fran O'Toole, Tony Geraghty, and Brian McCoy, were killed in what became known as the "Miami Showband massacre".
+
+"Andrew Robb and David McIlwaine killings"
+The Tandragee killings took place in the early hours of Saturday 19 February 2000 on an isolated country road outside Tandragee, County Armagh, Northern Ireland.
+Two young Protestant men, Andrew Robb and David McIlwaine, were beaten and repeatedly stabbed to death in what was part of a Loyalist feud between the loyalist Ulster Volunteer Force (UVF) and their rivals, the breakaway Loyalist Volunteer Force (LVF).
+The men were not members of any loyalist paramilitary organisation.
+It later emerged in court hearings that Robb had made disparaging remarks about the killing of UVF Mid-Ulster Brigade leader Richard Jameson by an LVF gunman the previous month.
+This had angered the killers, themselves members of the Mid-Ulster UVF, and in retaliation they had lured the two men to the remote lane on the outskirts of town, where they killed and mutilated them.
+
+"Loyalist Volunteer Force"
+The Loyalist Volunteer Force (LVF) is a small Ulster loyalist paramilitary group in Northern Ireland.
+It was formed by Billy Wright in 1996 when he and his unit split from the Ulster Volunteer Force (UVF) after breaking its ceasefire.
+They had belonged to the UVF's Mid-Ulster Brigade and Wright had been the brigade's commander.
+In a two-year period from August 1996, the LVF waged a paramilitary campaign with the stated goal of combatting Irish republicanism.
+During this time it killed at least 14 people in gun and bomb attacks.
+Almost all of its victims were Catholic civilians who were killed at random.
+The LVF called off its campaign in August 1998 and decommissioned some of its weapons, but in the early 2000s a loyalist feud led to a number of killings.
+Since then, the LVF has been largely inactive, but its members are believed to have been involved in rioting and organized crime.
+In 2015, the security forces stated that the LVF "exists only as a criminal group" in Mid-Ulster and Antrim.
+
+"UVF Mid-Ulster Brigade"
+UVF Mid-Ulster Brigade formed part of the loyalist paramilitary Ulster Volunteer Force in Northern Ireland.
+The brigade was established in Lurgan, County Armagh in 1972 by its first commander Billy Hanna.
+The unit operated mainly around the Lurgan and Portadown areas.
+Subsequent leaders of the brigade were Robin Jackson, known as "The Jackal", and Billy Wright.
+The Mid-Ulster Brigade carried out many attacks, mainly in Northern Ireland, especially in the South Armagh area, but it also extended its operational reach into the Republic of Ireland.
+Two of the most notorious attacks in the history of the Troubles were carried out by the Mid-Ulster Brigade: the 1974 Dublin and Monaghan bombings and the Miami Showband killings in 1975.
+Members of the Mid-Ulster Brigade were part of the Glenanne gang which the Pat Finucane Centre has since linked to at least 87 lethal attacks in the 1970s.
+
+"Harris Boyle"
+Harris Boyle (1953 – 31 July 1975) was an Ulster Defence Regiment (UDR) soldier and a high-ranking member of the Ulster Volunteer Force (UVF), a Northern Irish loyalist paramilitary organisation.
+Boyle was implicated in the 1974 Dublin and Monaghan bombings, and took part in the attack at Buskhill, County Down when an armed UVF gang wearing British Army uniforms ambushed The Miami Showband at a bogus military checkpoint.
+The popular Irish cabaret band was driving home to Dublin after a performance in Banbridge.
+He was one of the two gunmen killed when the bomb they had loaded onto the band's minibus exploded prematurely.
+He is sometimes referred to as Horace Boyle.
+
+"John Francis Green"
+John Francis Green (18 December 1946 – 10 January 1975), was a leading member of the North Armagh Brigade of the Provisional Irish Republican Army, holding the rank of Staff Captain and Intelligence Officer.
+He was killed in a farmhouse outside Castleblayney, County Monaghan, by members of the Mid-Ulster Brigade of the Ulster Volunteer Force (UVF).
+According to Secret Intelligence Service operative Captain Fred Holroyd, British Army Captain Robert Nairac was involved in Green's killing.
+Green's was one of the 87 killings attributed by the Pat Finucane Centre to the group of loyalist extremists known as the Glenanne gang.
+No one was ever prosecuted for the killing.
+
+"Miami Showband killings"
+The Miami Showband killings (also called the Miami Showband Massacre) was an attack by the Ulster Volunteer Force (UVF), a loyalist paramilitary group, on 31 July 1975.
+It took place on the A1 road at Buskhill in County Down, Northern Ireland.
+Five people were killed, including three members of The Miami Showband, who were then one of Ireland's most popular cabaret bands.
+
+"1991 Cappagh killings"
+The 1991 Cappagh killings was a gun attack by the loyalist Ulster Volunteer Force (UVF) on 3 March 1991 in the village of Cappagh, County Tyrone, Northern Ireland.
+A unit of the UVF's Mid-Ulster Brigade drove to the staunchly republican village and shot dead three Provisional IRA volunteers and a Catholic civilian at Boyle's Bar.
+
+"Wesley Somerville"
+William Wesley Somerville (c. 1941 – 31 July 1975) was a Northern Irish loyalist, who held the rank of lieutenant in the illegal Ulster Volunteer Force's (UVF) Mid-Ulster Brigade during the period of conflict known as "the Troubles".
+He also served as a member of the British state's legal Ulster Defence Regiment (UDR).
+Somerville was part of the UVF unit that ambushed the Irish cabaret band The Miami Showband at Buskhill, County Down, which resulted in the deaths of three of the bandmembers.
+Somerville was killed, along with Harris Boyle, when the bomb they had loaded onto the band's minibus exploded prematurely.
+His brother, John James Somerville (a former UDR soldier) was one of the three men convicted of the murders of bandmembers Brian McCoy, Fran O'Toole and Tony Geraghty.
+
+"Richard Jameson (loyalist)"
+Richard Jameson (c. 1953 – 10 January 2000), was a Northern Irish businessman and loyalist, who served as the leader of the paramilitary Ulster Volunteer Force's (UVF) Mid-Ulster Brigade.
+He was killed outside his Portadown home during a feud with the rival Loyalist Volunteer Force (LVF), the breakaway organisation founded by former Mid-Ulster UVF commander Billy Wright after he and the Portadown unit of the Mid-Ulster Brigade were officially stood down by the Brigade Staff (Belfast leadership) in August 1996.
+
+question:
+When did the UVF Mid-Ulster Brigade conducted the attack The Miami Showband killings?
+
+
+answer(1):
+1975
+supporting facts:
+UVF Mid-Ulster Brigade 5
+Miami Showband killings 0
+
+
+answer(2):
+1975
+supporting facts:
+The Miami Showband 0
+Miami Showband killings 0
+
+
+answer(true):
+31 July 1975
+supporting facts:
+UVF Mid-Ulster Brigade 0
+UVF Mid-Ulster Brigade 5
+Miami Showband killings 0
+
+
+
+
+[4]
+
+
+context: 
+
+
+"John Frink"
+John Frink (born May 5, 1964) is an American television writer and producer.
+He has written several episodes of the American animated sitcom "The Simpsons", many of which he co-wrote with his former writing partner Don Payne.
+Frink and Payne started their career in television writing for the short-lived sitcom "Hope and Gloria".
+They wrote their first episode of "The Simpsons" in 2000, and Frink still works on the show as a writer and executive producer.
+
+"Treehouse of Horror XIV"
+"Treehouse of Horror XIV" is the first episode of "The Simpsons"<nowiki>'</nowiki> fifteenth season.
+It originally aired on the Fox network in the United States on November 2, 2003.
+In the fourteenth annual Treehouse of Horror episode, Homer takes on the role of the Grim Reaper ("Reaper Madness"), Professor Frink creates a Frankenstein-version of his deceased father ("Frinkenstein") and Bart and Milhouse obtain a time-stopping watch ("Stop the World, I Want to Goof Off").
+It was written by John Swartzwelder and directed by Steven Dean Moore.
+It guest stars Jerry Lewis as Professor John Frink Sr., and Jennifer Garner, Dudley Herschbach, and Oscar de la Hoya as themselves.
+The episode was nominated for the 2004 Emmy Award for Outstanding Music Composition for a Series (Dramatic Underscore).
+
+"The Simpsons (season 22)"
+"The Simpsons"' twenty-second season began airing on Fox on September 26, 2010 and ended on May 22, 2011.
+"The Simpsons" was renewed for at least two additional seasons during the twentieth season leading up to this season.
+The cast is currently signed through the 30th season (though the show almost got canceled in its 23rd season due to budget constraints).
+On November 11, 2010, the series was renewed for a 23rd season by Fox with 22 episodes.
+
+"Stop! Or My Dog Will Shoot"
+"Stop!
+Or My Dog Will Shoot" is the twentieth episode of "The Simpsons"<nowiki>'</nowiki> eighteenth season.
+It first aired on the Fox network in the United States on May 13, 2007.
+When Santa's Little Helper rescues a lost Homer, he becomes a local hero and the Simpsons decide to enroll him in Police Dog Academy, where he is teamed with Lou and they become a crime-busting duo.
+Bart's excitement quickly vanishes after an incident with a jaded Santa's Little Helper, so to appease Bart's depression after the loss of his dog, Marge agrees to buy him a huge pet snake, which causes a life-threatening situation at Bart and Lisa's school.
+It was written by John Frink and directed by Matthew Faughnan.
+Friend of the show Stephen Hawking makes his third guest appearance on the show as himself, while Maurice LaMarche does the voice of the Horn Stuffer.
+Rudy Giuliani makes a guest voice appearance as himself, although not in the original airing.
+The fan-favorite song "Freak On a Leash" by metal band,
+
+"All About Lisa"
+"All About Lisa" is the twentieth episode and season finale of "The Simpsons"<nowiki>'</nowiki> nineteenth season.
+It originally aired on the Fox network in the United States on May 18, 2008.
+Lisa Simpson becomes Krusty the Clown's newest assistant and steals his spotlight.
+She wins Entertainer of the Year at the Springfield Media awards, but is warned that with her sudden fame comes a new attitude towards others and herself.
+Meanwhile, Homer and Bart bond over their newfound love of coin collecting.
+The episode features narration by Sideshow Mel.
+It was written by John Frink and directed by Steven Dean Moore.
+Drew Carey guest voices as himself, appearing as a guest on Krusty's show.
+
+"The Ned-Liest Catch"
+"The Ned-Liest Catch" is the twenty-second episode and season finale of the twenty-second season of "The Simpsons".
+It originally aired on the Fox network in the United States on May 22, 2011.
+This is the second season finale to end on a cliffhanger, with the first being "Who Shot Mr. Burns?
+" from the sixth season.
+It is the third episode and the second one from season 22 (the other being "The Great Simpsina") to have no opening credits, blackboard or couch gag.
+
+"Days of Future Future"
+"Days of Future Future" is the eighteenth episode of the 25th season of the American animated sitcom "The Simpsons", and the 548th episode of the series.
+It first aired on the Fox network in the United States on April 13, 2014.
+It was written by J. Stewart Burns and directed by Bob Anderson.
+The episode is a sequel to "Future-Drama" and a continuation of "Holidays of Future Passed", set 30 years from the present.
+In this futuristic installment, Bart goes to a clinic to rid himself of his feelings for his ex-wife Jenda (who is now dating a xenomorph-like alien named Jerry), Lisa must choose whether or not to cure her zombie husband Milhouse after he gets bitten by a homeless zombie, and Marge (after putting up with years of Homer dying and being cloned back to life by Professor Frink) loads Homer onto a flatscreen monitor and throws him out of the house.
+
+"Monty Can't Buy Me Love"
+"Monty Can't Buy Me Love" is the twenty-first episode of "The Simpsons"' tenth season.
+It first aired on the Fox network in the United States on May 2, 1999.
+In the episode, Mr. Burns is jealous of megastore owner Arthur Fortune, who is beloved by the people of Springfield.
+In order to win the people's love, Burns gathers the help of Homer Simpson, Professor Frink and Groundskeeper Willie to capture the Loch Ness monster.
+
+"500 Keys"
+"500 Keys" is the twenty-first episode of the twenty-second season of "The Simpsons".
+It first aired on the Fox network in the United States on May 15, 2011.
+It was written by John Frink and directed by Bob Anderson.
+
+"What to Expect When Bart's Expecting"
+"What to Expect When Bart's Expecting" is the nineteenth episode of the 25th season of the American animated sitcom "The Simpsons", and the 549th episode of the series.
+It originally aired on the Fox network in the United States on April 27, 2014.
+It was written by John Frink and directed by Matthew Nastuk.
+In the episode, Bart makes a voodoo doll of his hippie art teacher when he gets sick of art class and cast a spell to make her sick, but when he inadvertently gets her pregnant, he becomes a savior to Springfield couples trying to conceive—and is subsequently kidnapped to help conceive a thoroughbred race horse.
+
+question:
+How many episodes were in the 23rd season of a Fox network show which, in it's twenty-second season, aired it's twenty-first episode which was written by John Frink and directed by Bob Anderson.
+
+
+answer(1):
+22
+supporting facts:
+John Frink 1
+The Ned-Liest Catch 0
+500 Keys 0
+500 Keys 1
+500 Keys 2
+
+
+answer(2):
+22
+supporting facts:
+500 Keys 0
+500 Keys 1
+500 Keys 2
+
+
+answer(true):
+22 episodes.
+supporting facts:
+500 Keys 0
+500 Keys 1
+500 Keys 2
+The Simpsons (season 22) 0
+The Simpsons (season 22) 3
+
+
+
+
+[5]
+
+
+context: 
+
+
+"Idylease Inn"
+Idylease ( "idle-ease"), a former resort hotel located in Newfoundland, New Jersey, was erected in 1902 and is an architecturally and historically significant example of early 20th century resort architecture in Northwest, New Jersey.
+The only surviving example of resort facilities in the region, it recalls the popularity of the region as the vacationland for the middle class in the late nineteenth century.
+The Inn was built for a group of 11 investors calling themselves The Newfoundland Health Association headed by Dr Edgar Day from Brooklyn, NY.
+Idylease is situated on the summit of an 1000 ft -hill in the foothills of the Ramapo Mountains and is located 30 miles northwest from New York City.
+
+"Letchworth State Park"
+Letchworth State Park is a 14427 acre state park located in Livingston and Wyoming counties, New York.
+The park is roughly 17 mi long, following the course of the Genesee River as it flows north through a deep gorge and over several large waterfalls.
+It is located 35 mi southwest of Rochester and 60 mi southeast of Buffalo, and spans portions of the Livingston County towns of Leicester, Mount Morris, and Portage, as well as the Wyoming County towns of Castile and Genesee Falls.
+
+"Montgomery (village), New York"
+Montgomery is a village located in Orange County, New York, United States, 60 (97 km) miles northwest of New York City, and 90 miles (140 km) southwest of Albany.
+The population was 3,814 at the 2010 census.
+It is part of the Poughkeepsie–Newburgh–Middletown, NY Metropolitan Statistical Area as well as the larger New York–Newark–Bridgeport, NY-NJ-CT-PA Combined Statistical Area.
+The village is named after General Richard Montgomery, an officer of the American Revolution.
+
+"Bridgeport, Connecticut"
+Bridgeport is a seaport city in the U.S. state of Connecticut.
+It is the largest city in the state and is located in Fairfield County at the mouth of the Pequonnock River on Long Island Sound.
+Bridgeport had a population of 144,229 during the 2010 Census, making it also the 5th-most populous in New England.
+It is bordered by the towns of Trumbull to the north, Fairfield to the west, and Stratford to the east.
+The Greater Bridgeport area is the 48th-largest urban area in the United States.
+Located 60 miles from Manhattan and 40 miles from the Bronx, Bridgeport is also part of the New York metropolitan area.
+
+"Rockland County, New York"
+Rockland County is the southernmost county on the west side of the Hudson River in the U.S. state of New York, part of the New York–Newark–Jersey City, NY–NJ–PA Metropolitan Statistical Area.
+The county's population, as of the 2010 census, was 311,687, increasing by 4.8% to a 2016 Census estimate of 326,780, making it the third most densely populated county outside of New York City within New York State (after Nassau and neighboring Westchester counties, respectively).
+The county seat is New City.
+Although Rockland County does not directly border any New York City boroughs, it lies only 9 miles northwest of the city at their closest points, and is accessible via the New York State Thruway, after 10 exits.
+The name derives from "rocky land", as the area was described by early Dutch and English settlers.
+
+"Cottekill, New York"
+Cottekill is a small hamlet in the northwest part of the Town of Rosendale, Ulster county, New York in the United States.
+Located in the Rondout Valley, it is approximately 2.25 miles east of the hamlet of Stone Ridge, 2.5 miles northwest of Rosendale Village, 8.75 miles south of the city of Kingston and 10.9 miles north of the village of New Paltz.
+As of 2014, the population was listed at 451.
+It features a Post Office (12419) and its own fire department.
+The Brookside School, a private school for children with developmental disabilities is located here as well as the Sustainable Living Resource Center, a project of Sustainable Hudson Valley.
+SUNY Ulster, a Community College, is nearby in Stone Ridge.
+There is also the Marbletown-Rosendale Rail Trail, curving along the old New York, Ontario and Western Railway tracks, paralleling Lucas Avenue.
+It starts at Leggett Road, crosses the Cottekill Creek on a wooden footbridge and travels north to Cottekill Road, past the Cottekill Fire House.
+It continues north from the firehouse, along the O & W path, crosses Marcott Road and comes out on Route 209.
+
+"Brookhaven National Laboratory"
+Brookhaven National Laboratory (BNL) is a United States Department of Energy national laboratory located in Upton, New York, on Long Island, and was formally established in 1947 at the site of Camp Upton, a former U.S. Army base.
+Its name stems from its location within the Town of Brookhaven, approximately 60 miles east of New York City.
+
+"Glen Iris Inn"
+The Glen Iris Inn, William Pryor Letchworth's former home, is located on the top of a cliff overlooking Middle Falls in Letchworth State Park, New York State, USA.
+William Letchworth found the day-to-day operations of business burdensome and so sought refuge from the business world and decided to build a home; he settled on the location while as a tourist gazing at the view in what the Seneca Indians called the Sehgahunda Valley through which the Genesee River flowed.
+In 1859 he purchased his first tract of land near Portage Falls.
+
+"Glenmere mansion"
+The Glenmere mansion, overlooking Glenmere Lake, approximately 50 miles northwest of New York City in Orange County, New York, was built by New York City real estate developer Robert Wilson Goelet (not to be confused with his first cousin Robert Walton Goelet) in 1911, on the grounds of his sprawling estate in Sugar Loaf, a hamlet of the town of Chester, New York.
+
+"William Floyd School District"
+The William Floyd School District is located in the southern area of the Town of Brookhaven on Long Island in New York.
+The district serves the contiguous communities of Shirley, Mastic, Mastic Beach and Moriches.
+The William Floyd School District is one of the larger school districts on Long Island and is named after William Floyd, one of only 56 men to sign the Declaration of Independence.
+The district is located on the south shore of Long Island, approximately 60 miles east of New York City, with an enrollment of 8,653 students as of 2016.
+William Floyd students attend five elementary schools, two middle schools, and a senior high school.
+
+question:
+What New York city is 60 miles northwest of the Glen Iris Inn?
+
+
+answer(1):
+Brookhaven
+supporting facts:
+Montgomery (village), New York 0
+Brookhaven National Laboratory 1
+Glen Iris Inn 0
+Glenmere mansion 0
+
+
+answer(2):
+Albany
+supporting facts:
+Letchworth State Park 2
+Montgomery (village), New York 0
+Brookhaven National Laboratory 1
+Glen Iris Inn 0
+Glenmere mansion 0
+
+
+answer(true):
+Buffalo
+supporting facts:
+Glen Iris Inn 0
+Letchworth State Park 2
+
+
+
+
